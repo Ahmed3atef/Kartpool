@@ -29,7 +29,8 @@ INSTALLED_APPS = [
     'django.contrib.gis', # for geoDjango
     #local
     'accounts',
-    'core',
+    'stores',
+    'home',
     
 ]
 
@@ -69,7 +70,7 @@ WSGI_APPLICATION = 'kartpool.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
+        'ENGINE': 'django.contrib.gis.db.backends.postgis', # making django work with PostGIS
         'NAME': 'kartpool',
         'USER': 'postgres',
         'PASSWORD': 'postgres',

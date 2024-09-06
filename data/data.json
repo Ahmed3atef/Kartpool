@@ -1,0 +1,7580 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-09-04T17:41:45Z",
+    "timestamp_areas_base": "2024-09-04T14:17:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 411894482,
+      "lat": 30.0957232,
+      "lon": 31.3151549,
+      "tags": {
+        "alt_name": "رويال",
+        "name": "رويال",
+        "name:ar": "رويال",
+        "name:en": "Royal",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 442298833,
+      "lat": 30.0658856,
+      "lon": 31.3432586,
+      "tags": {
+        "name": "الصواف",
+        "name:ar": "الصواف",
+        "name:en": "Al Sawaf",
+        "note": "correct arabic tag",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 442298836,
+      "lat": 30.0659015,
+      "lon": 31.3431175,
+      "tags": {
+        "name": "الأنوار المحمدية",
+        "name:ar": "الأنوار المحمدية",
+        "name:en": "Al Anwar Al Mohamadia",
+        "note": "correct arabic tag",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 442338330,
+      "lat": 30.0599128,
+      "lon": 31.3458324,
+      "tags": {
+        "name": "أسواق العائلة الجديد",
+        "name:ar": "أسواق العائلة الجديد",
+        "name:en": "New Family Store",
+        "note": "correct arabic tag",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 447795158,
+      "lat": 30.0655308,
+      "lon": 31.3333303,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 470253334,
+      "lat": 29.9616925,
+      "lon": 31.2471377,
+      "tags": {
+        "alt_name": "ألفا ماركت",
+        "name": "ألفا ماركت",
+        "name:ar": "ألفا ماركت",
+        "name:en": "Alfa Market",
+        "name:fa": "آلفا مارکت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 526103213,
+      "lat": 29.9605873,
+      "lon": 31.2734349,
+      "tags": {
+        "alt_name": "سودي",
+        "name": "سعودي",
+        "name:ar": "سودي",
+        "name:en": "Seoudi",
+        "opening_hours": "PH,Mo-Su 07:00-02:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 602445427,
+      "lat": 30.0040855,
+      "lon": 31.4248829,
+      "tags": {
+        "alt_name": "مترو",
+        "name": "مترو",
+        "name:ar": "مترو",
+        "name:en": "Metro Supermarket",
+        "name:fa": "مترو",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 669225070,
+      "lat": 30.0135275,
+      "lon": 31.2251432,
+      "tags": {
+        "alt_name": "مترو",
+        "name": "مترو",
+        "name:ar": "مترو",
+        "name:en": "Metro",
+        "name:fa": "مترو",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670108378,
+      "lat": 30.0183211,
+      "lon": 31.2252987,
+      "tags": {
+        "alt_name": "خير زمان",
+        "name": "خير زمان",
+        "name:ar": "خير زمان",
+        "name:en": "Khier Zaman",
+        "shop": "supermarket",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 838468297,
+      "lat": 30.0613421,
+      "lon": 31.4819574,
+      "tags": {
+        "name": "سوبرماركت مترو",
+        "name:ar": "سوبرماركت مترو",
+        "name:en": "Metro Supermarket",
+        "name:fa": "مترو",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 899292902,
+      "lat": 30.0034948,
+      "lon": 31.421225,
+      "tags": {
+        "name": "سوبرماركت السعودى",
+        "name:ar": "سوبرماركت السعودى",
+        "name:en": "Seoudi Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 987129728,
+      "lat": 30.0560685,
+      "lon": 31.2746348,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1066649207,
+      "lat": 30.0890215,
+      "lon": 31.3125821,
+      "tags": {
+        "name": "ألفا ماركت",
+        "name:ar": "ألفا ماركت",
+        "name:en": "Alpha Merket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1356217232,
+      "lat": 30.1192616,
+      "lon": 31.3975525,
+      "tags": {
+        "name": "رجب و أولاده",
+        "name:ar": "رجب و أولاده",
+        "name:en": "Ragab & Sons",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1358247052,
+      "lat": 30.0825829,
+      "lon": 31.3370786,
+      "tags": {
+        "int_name": "Awlad Ghanem",
+        "name": "اولاد غانم",
+        "name:ar": "اولاد غانم",
+        "name:en": "Awlad Ghanem",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1373655575,
+      "lat": 30.0830661,
+      "lon": 31.3378096,
+      "tags": {
+        "int_name": "BIG BOSS",
+        "name": "بيج بوس",
+        "name:ar": "بيج بوس",
+        "name:en": "Big Boss",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1373655586,
+      "lat": 30.0823558,
+      "lon": 31.3379653,
+      "tags": {
+        "int_name": "Zaki Wa Awlado",
+        "name": "زكي و أولاده",
+        "name:ar": "زكي و أولاده",
+        "name:en": "Zaki Wa Awlado",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1375217323,
+      "lat": 30.0873098,
+      "lon": 31.3348173,
+      "tags": {
+        "int_name": "Ragab Sons",
+        "name": "اولاد رجب",
+        "name:ar": "اولاد رجب",
+        "name:en": "Awlad Ragab",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1379926363,
+      "lat": 30.0829812,
+      "lon": 31.3344529,
+      "tags": {
+        "int_name": "Gamgoum",
+        "name": "جمجوم",
+        "name:ar": "جمجوم",
+        "name:en": "Gamgoum",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1480630172,
+      "lat": 29.9587355,
+      "lon": 31.2602269,
+      "tags": {
+        "addr:street": "Mostafa Kamel Street",
+        "name": "Gourmet",
+        "name:ar": "جورميه",
+        "shop": "supermarket",
+        "website": "https://www.gourmetegypt.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1694325198,
+      "lat": 30.0657653,
+      "lon": 31.349487,
+      "tags": {
+        "addr:street": "Ahmed Fakhry Street",
+        "name": "ABA Supermarket",
+        "name:en": "ABA Supermarket",
+        "shop": "supermarket",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1788243876,
+      "lat": 29.9787749,
+      "lon": 31.3135823,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1788255091,
+      "lat": 29.9839767,
+      "lon": 31.3131451,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1788255097,
+      "lat": 29.9842183,
+      "lon": 31.3121071,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1788255116,
+      "lat": 29.9844088,
+      "lon": 31.3121097,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2217992587,
+      "lat": 29.9619847,
+      "lon": 31.2756056,
+      "tags": {
+        "name": "Trolley",
+        "name:en": "Trolley",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2293628448,
+      "lat": 30.0170821,
+      "lon": 31.4134078,
+      "tags": {
+        "name": "كارفور",
+        "name:ar": "كارفور",
+        "name:en": "Carrefour",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2448356247,
+      "lat": 30.1242846,
+      "lon": 31.3706064,
+      "tags": {
+        "name": "الونش",
+        "name:ar": "الونش",
+        "name:en": "Al-Wench",
+        "phone": "+2 26248369",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2448356816,
+      "lat": 30.1240846,
+      "lon": 31.3700072,
+      "tags": {
+        "addr:city": "Cairo",
+        "addr:street": "شارع محمد السماحي",
+        "name": "غانم و أولاده",
+        "name:ar": "غانم و أولاده",
+        "name:en": "Ghanem & Sons",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2448358090,
+      "lat": 30.122955,
+      "lon": 31.3695024,
+      "tags": {
+        "name": "مزارع دينا",
+        "name:ar": "مزارع دينا",
+        "name:en": "dina farms",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2621607783,
+      "lat": 30.0273587,
+      "lon": 31.4070495,
+      "tags": {
+        "brand": "Carrefour",
+        "brand:wikidata": "Q217599",
+        "brand:wikipedia": "fr:Carrefour (enseigne)",
+        "internet_access": "wlan",
+        "name": "Carrefour",
+        "name:ar": "كارفور",
+        "name:en": "Carrefour",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2868755127,
+      "lat": 29.9737166,
+      "lon": 31.2815718,
+      "tags": {
+        "building": "hospital",
+        "name": "El Gezera",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3021760833,
+      "lat": 29.9760909,
+      "lon": 31.2831814,
+      "tags": {
+        "name": "Game",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3120998013,
+      "lat": 30.1028308,
+      "lon": 31.386874,
+      "tags": {
+        "brand": "Carrefour",
+        "brand:wikidata": "Q217599",
+        "brand:wikipedia": "fr:Carrefour (enseigne)",
+        "name": "Carrefour",
+        "name:ar": "كارفور",
+        "name:en": "Carrefour",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3157879891,
+      "lat": 30.1058262,
+      "lon": 31.3255465,
+      "tags": {
+        "name": "سوبر ماركت اولاد رجب",
+        "name:ar": "سوبر ماركت اولاد رجب",
+        "name:en": "Ragab sons Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3859826733,
+      "lat": 30.012129,
+      "lon": 31.3217884,
+      "tags": {
+        "name": "أولاد رجب",
+        "name:ar": "اولاد رجب",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4053835897,
+      "lat": 29.9293197,
+      "lon": 31.2816945,
+      "tags": {
+        "name": "كارفور",
+        "name:ar": "كارفور",
+        "name:en": "Carfour",
+        "operator": "Carfour",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4159692089,
+      "lat": 30.0574485,
+      "lon": 31.4594892,
+      "tags": {
+        "addr:street": "الشيخ عبد الله الحبشي",
+        "fixme": "Name may be too long.",
+        "name": "السوق التجارى بإسكان الشباب الجنوبية بالتجمع الأول",
+        "name:ar": "السوق التجارى بإسكان الشباب الجنوبية بالتجمع الأول",
+        "name:en": "The commercial market in the southern youth housing in the first settlement",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4174493786,
+      "lat": 29.832343,
+      "lon": 31.3603343,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "أسواق البصيري",
+        "name:ar": "أسواق البصيري",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4176052290,
+      "lat": 29.8323163,
+      "lon": 31.3593487,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "أسواق البصيري",
+        "name:ar": "أسواق البصيري",
+        "opening_hours": "Mo-Su 09:00-02:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4176052499,
+      "lat": 29.8322652,
+      "lon": 31.35808,
+      "tags": {
+        "name": "أولاد عيسى",
+        "name:ar": "أولاد عيسى",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4176052795,
+      "lat": 29.8331221,
+      "lon": 31.358397,
+      "tags": {
+        "name": "البصيري ماركت",
+        "name:ar": "البصيري ماركت",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4217834693,
+      "lat": 30.1036622,
+      "lon": 31.3155571,
+      "tags": {
+        "addr:housenumber": "24516169",
+        "addr:street": "شارع نصوح",
+        "name": "al batol",
+        "opening_hours": "Mo-Su 10:00-13:30, 20:30-00:00",
+        "phone": "24516169",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4275695197,
+      "lat": 29.9643616,
+      "lon": 31.2487141,
+      "tags": {
+        "name": "Metro market",
+        "name:ja": "メトロ マーケット",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4302149789,
+      "lat": 30.0902081,
+      "lon": 31.3103616,
+      "tags": {
+        "addr:housenumber": "022574459",
+        "addr:street": "شارع السخاوى",
+        "addr:street:en": "Al Sakhawy Street",
+        "name": "دمشق",
+        "name:ar": "دمشق",
+        "name:en": "Damascus",
+        "opening_hours": "Mo-Su 08:00-23:30",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4335010957,
+      "lat": 30.0495823,
+      "lon": 31.3309706,
+      "tags": {
+        "name": "AlTayp",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4335013206,
+      "lat": 30.0493185,
+      "lon": 31.3292982,
+      "tags": {
+        "name": "Family Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4359964489,
+      "lat": 30.0993931,
+      "lon": 31.3110672,
+      "tags": {
+        "addr:housenumber": "76",
+        "addr:postcode": "11321",
+        "addr:street": "شارع الكريم",
+        "name": "سوبر ماركت الطاهرة",
+        "name:ar": "سوبر ماركت الطاهرة",
+        "name:en": "super market El Tahra",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4396285390,
+      "lat": 30.0531187,
+      "lon": 31.4305619,
+      "tags": {
+        "addr:street": "شارع السادات",
+        "internet_access": "wlan",
+        "name": "لولو",
+        "name:ar": "لولو",
+        "name:en": "Lulu",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4530740288,
+      "lat": 30.1032643,
+      "lon": 31.3776692,
+      "tags": {
+        "name": "Saudi Market",
+        "shop": "supermarket",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4547996190,
+      "lat": 29.8924663,
+      "lon": 31.2947745,
+      "tags": {
+        "name": "الرضا",
+        "name:ar": "الرضا",
+        "name:en": "El reda",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4557843689,
+      "lat": 30.094688,
+      "lon": 31.3347341,
+      "tags": {
+        "name": "سوبرماركت السعيد",
+        "name:ar": "سوبرماركت السعيد",
+        "name:en": "Al Saeed Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4557888189,
+      "lat": 30.0960696,
+      "lon": 31.334956,
+      "tags": {
+        "addr:street": "ميدان الإسماعيلية",
+        "name": "سوبرماركت جمجوم",
+        "name:ar": "سوبرماركت جمجوم",
+        "name:en": "Supermarket Gamgoom",
+        "phone": "002024158755",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4629575889,
+      "lat": 30.035707,
+      "lon": 31.239479,
+      "tags": {
+        "name": "خير زمان سوبر ماركت",
+        "name:ar": "خير زمان سوبر ماركت",
+        "name:en": "Kheir Zaman Supermarket",
+        "phone": "19073",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4657745889,
+      "lat": 30.0161879,
+      "lon": 31.2246481,
+      "tags": {
+        "name": "الروبى",
+        "name:ar": "الروبى",
+        "name:en": "El Ruby",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4675213190,
+      "lat": 30.1348179,
+      "lon": 31.3454436,
+      "tags": {
+        "addr:street": "عادل مبارك",
+        "name": "مكتبة شادى",
+        "name:ar": "مكتبة شادى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4702023762,
+      "lat": 30.0826272,
+      "lon": 31.3269889,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4702023763,
+      "lat": 30.0847775,
+      "lon": 31.328917,
+      "tags": {
+        "name": "Family Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4760388328,
+      "lat": 30.0531139,
+      "lon": 31.4303578,
+      "tags": {
+        "name": "Lulu hypermarket",
+        "shop": "supermarket",
+        "website": "https://www.lulugroupinternational.com/recent-news-detail.html?id=75"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4787662423,
+      "lat": 30.1244656,
+      "lon": 31.3033471,
+      "tags": {
+        "addr:street": "الترلي",
+        "name": "بيم",
+        "name:ar": "بيم",
+        "name:en": "BIM",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4862139221,
+      "lat": 30.0211877,
+      "lon": 31.2255132,
+      "tags": {
+        "name": "سوبر ماركت الباشا",
+        "name:ar": "سوبر ماركت الباشا",
+        "name:en": "Super market el basha",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4929017360,
+      "lat": 30.0656438,
+      "lon": 31.327897,
+      "tags": {
+        "addr:city": "Cairo",
+        "addr:street": "سيبويه المصري",
+        "name": "سوبر ماركت البستان",
+        "name:ar": "سوبر ماركت البستان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5033260935,
+      "lat": 30.0381041,
+      "lon": 31.3752837,
+      "tags": {
+        "addr:housenumber": "17",
+        "addr:street": "شارع محمد متولي الشعراوي",
+        "addr:street:ar": "شارع محمد متولي الشعراوي",
+        "addr:street:en": "Mohamed Metwali Al Shaarawy Street",
+        "language:ar": "main",
+        "name": "سوبرماركت مرحبا",
+        "name:ar": "سوبرماركت مرحبا",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5112033621,
+      "lat": 30.0548692,
+      "lon": 31.3564271,
+      "tags": {
+        "addr:street": "محمد المقلد",
+        "name": "كازيون ماركت",
+        "name:ar": "كازيون ماركت",
+        "name:en": "Kazyon Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5137281421,
+      "lat": 30.0675325,
+      "lon": 31.3298358,
+      "tags": {
+        "name": "كارفور ماركت",
+        "name:ar": "كارفور ماركت",
+        "name:en": "Carrefour Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5195676422,
+      "lat": 30.1076635,
+      "lon": 31.3185213,
+      "tags": {
+        "name": "الباشا ماركت",
+        "name:ar": "الباشا ماركت",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5240761723,
+      "lat": 30.0815694,
+      "lon": 31.3647953,
+      "tags": {
+        "name:en": "Carrefour City Center",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5249473186,
+      "lat": 30.0169098,
+      "lon": 31.413322,
+      "tags": {
+        "name": "كارفور",
+        "name:ar": "كارفور",
+        "name:en": "Carrefour",
+        "operator": "كارفور",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5249484745,
+      "lat": 30.0186833,
+      "lon": 31.4254447,
+      "tags": {
+        "name": "Spinneys",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5483300135,
+      "lat": 30.0557808,
+      "lon": 31.2550303,
+      "tags": {
+        "name:en": "st. market",
+        "name:ko": "골목 시장",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5629435030,
+      "lat": 30.0637843,
+      "lon": 31.467715,
+      "tags": {
+        "name": "مول البركة",
+        "name:ar": "مول البركة",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5989958180,
+      "lat": 29.9595974,
+      "lon": 31.3180282,
+      "tags": {
+        "name": "Commissary",
+        "opening_hours": "Su-Mo 10:00-18:00, We 10:00-18:00, Th 10:00-19:00, Fr-Sa 09:00-17:00",
+        "operator": "DeCA",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6174755287,
+      "lat": 30.1666563,
+      "lon": 31.556903,
+      "tags": {
+        "name": "الحبش",
+        "name:ar": "الحبش",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6174755288,
+      "lat": 30.1653079,
+      "lon": 31.5570738,
+      "tags": {
+        "name": "الحمد",
+        "name:ar": "الحمد",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6174755289,
+      "lat": 30.1652384,
+      "lon": 31.5566395,
+      "tags": {
+        "name": "طيبه",
+        "name:ar": "طيبه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178073086,
+      "lat": 30.1644117,
+      "lon": 31.5704099,
+      "tags": {
+        "name": "ماركيديا",
+        "name:ar": "ماركيديا",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178073087,
+      "lat": 30.1655179,
+      "lon": 31.5707628,
+      "tags": {
+        "name": "المصطفي",
+        "name:ar": "المصطفي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178073088,
+      "lat": 30.1608091,
+      "lon": 31.5460364,
+      "tags": {
+        "name": "مترو",
+        "name:ar": "مترو",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178073089,
+      "lat": 30.1608862,
+      "lon": 31.5458001,
+      "tags": {
+        "name": "خير زمان",
+        "name:ar": "خير زمان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178073090,
+      "lat": 30.1608992,
+      "lon": 31.5459981,
+      "tags": {
+        "name": "كارفور",
+        "name:ar": "كارفور",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178083585,
+      "lat": 30.1648323,
+      "lon": 31.5564251,
+      "tags": {
+        "name": "منفذ بيع القوات المسلحه",
+        "name:ar": "منفذ بيع القوات المسلحه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178083685,
+      "lat": 30.1652128,
+      "lon": 31.5564274,
+      "tags": {
+        "name": "المحمدية",
+        "name:ar": "المحمدية",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178083693,
+      "lat": 30.0720728,
+      "lon": 31.4535433,
+      "tags": {
+        "name": "المدينة المنورة",
+        "name:ar": "المدينة المنورة",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178084200,
+      "lat": 30.0718143,
+      "lon": 31.4527014,
+      "tags": {
+        "name": "خير زمان",
+        "name:ar": "خير زمان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178223086,
+      "lat": 30.0713561,
+      "lon": 31.4553511,
+      "tags": {
+        "name": "الباشا",
+        "name:ar": "الباشا",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178223087,
+      "lat": 29.9756739,
+      "lon": 31.2638536,
+      "tags": {
+        "name": "السعد",
+        "name:ar": "السعد",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178223088,
+      "lat": 29.980677,
+      "lon": 31.2651723,
+      "tags": {
+        "name": "كشك الاورمان",
+        "name:ar": "كشك الاورمان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178223089,
+      "lat": 29.9815174,
+      "lon": 31.2606489,
+      "tags": {
+        "name": "اسوق التوحيد",
+        "name:ar": "اسوق التوحيد",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178246287,
+      "lat": 29.974427,
+      "lon": 31.2640245,
+      "tags": {
+        "name": "الاحمدي",
+        "name:ar": "الاحمدي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178246288,
+      "lat": 29.9773001,
+      "lon": 31.263637,
+      "tags": {
+        "name": "الصفوة",
+        "name:ar": "الصفوة",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178246289,
+      "lat": 29.9776823,
+      "lon": 31.2637075,
+      "tags": {
+        "name": "المومن",
+        "name:ar": "المومن",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178246290,
+      "lat": 29.9787338,
+      "lon": 31.2651129,
+      "tags": {
+        "name": "احمد دياب",
+        "name:ar": "احمد دياب",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178246291,
+      "lat": 29.9819862,
+      "lon": 31.2634631,
+      "tags": {
+        "name": "الفارس",
+        "name:ar": "الفارس",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178246292,
+      "lat": 29.9812268,
+      "lon": 31.2589498,
+      "tags": {
+        "name": "طيبه",
+        "name:ar": "طيبه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178246293,
+      "lat": 29.9810743,
+      "lon": 31.2581376,
+      "tags": {
+        "name": "عباد الرحمن",
+        "name:ar": "عباد الرحمن",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178277185,
+      "lat": 29.9821882,
+      "lon": 31.2650387,
+      "tags": {
+        "name": "احمد التلاوي",
+        "name:ar": "احمد التلاوي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178277285,
+      "lat": 29.9802656,
+      "lon": 31.2570842,
+      "tags": {
+        "name": "المصطفي 2",
+        "name:ar": "المصطفي 2",
+        "phone": "01019593085",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6180429386,
+      "lat": 30.0502481,
+      "lon": 31.3986205,
+      "tags": {
+        "name": "القوات المسلحة",
+        "name:ar": "القوات المسلحة",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6180429387,
+      "lat": 30.0504686,
+      "lon": 31.3982423,
+      "tags": {
+        "name": "يارا",
+        "name:ar": "يارا",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6180501485,
+      "lat": 30.0497963,
+      "lon": 31.3987579,
+      "tags": {
+        "name": "اولاد رياض",
+        "name:ar": "اولاد رياض",
+        "phone": "01273225151",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6180575785,
+      "lat": 30.0493774,
+      "lon": 31.399493,
+      "tags": {
+        "name": "الهدي",
+        "name:ar": "الهدي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6180578089,
+      "lat": 30.0457423,
+      "lon": 31.3998704,
+      "tags": {
+        "name": "كوتشي",
+        "name:ar": "كوتشي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6180581606,
+      "lat": 30.0464455,
+      "lon": 31.400012,
+      "tags": {
+        "name": "البركه",
+        "name:ar": "البركه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6180581863,
+      "lat": 30.0477806,
+      "lon": 31.399597,
+      "tags": {
+        "name": "الاسره",
+        "name:ar": "الاسره",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6180582286,
+      "lat": 30.0476066,
+      "lon": 31.3999132,
+      "tags": {
+        "name": "هاني",
+        "name:ar": "هاني",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184958286,
+      "lat": 30.0480369,
+      "lon": 31.3977945,
+      "tags": {
+        "name": "الحيايب",
+        "name:ar": "الحيايب",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184958287,
+      "lat": 30.0449311,
+      "lon": 31.3950929,
+      "tags": {
+        "name": "الربيعي",
+        "name:ar": "الربيعي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184958288,
+      "lat": 30.0490638,
+      "lon": 31.3911032,
+      "tags": {
+        "name": "اولاد هارون",
+        "name:ar": "اولاد هارون",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184958289,
+      "lat": 30.0493985,
+      "lon": 31.3910127,
+      "tags": {
+        "name": "الزهراء",
+        "name:ar": "الزهراء",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184958290,
+      "lat": 30.0386632,
+      "lon": 31.3988753,
+      "tags": {
+        "name": "البرنس",
+        "name:ar": "البرنس",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184958291,
+      "lat": 30.0404367,
+      "lon": 31.3962256,
+      "tags": {
+        "name": "نجمة الزهراء",
+        "name:ar": "نجمة الزهراء",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184958292,
+      "lat": 30.0475056,
+      "lon": 31.3893317,
+      "tags": {
+        "name": "ابو المعاطي",
+        "name:ar": "ابو المعاطي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184958293,
+      "lat": 30.0461975,
+      "lon": 31.3897552,
+      "tags": {
+        "name": "اولاد حسين",
+        "name:ar": "اولاد حسين",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184959786,
+      "lat": 30.045814,
+      "lon": 31.3958129,
+      "tags": {
+        "name": "الزهراء",
+        "name:ar": "الزهراء",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184959787,
+      "lat": 30.0434377,
+      "lon": 31.398951,
+      "tags": {
+        "name": "التحرير",
+        "name:ar": "التحرير",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184959788,
+      "lat": 30.0487233,
+      "lon": 31.3931842,
+      "tags": {
+        "name": "ابو علي",
+        "name:ar": "ابو علي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184959789,
+      "lat": 30.0493787,
+      "lon": 31.3949297,
+      "tags": {
+        "name": "جابر",
+        "name:ar": "جابر",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965085,
+      "lat": 30.0474554,
+      "lon": 31.3949655,
+      "tags": {
+        "name": "اسواق فريش",
+        "name:ar": "اسواق فريش",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965086,
+      "lat": 30.047951,
+      "lon": 31.3964427,
+      "tags": {
+        "name": "المهندس",
+        "name:ar": "المهندس",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965087,
+      "lat": 30.0480817,
+      "lon": 31.3971514,
+      "tags": {
+        "name": "الحرمين",
+        "name:ar": "الحرمين",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965088,
+      "lat": 30.0451144,
+      "lon": 31.3958197,
+      "tags": {
+        "name": "شه",
+        "name:ar": "شهد الملكه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965089,
+      "lat": 30.0469381,
+      "lon": 31.3927683,
+      "tags": {
+        "name": "سلطان",
+        "name:ar": "سلطان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965090,
+      "lat": 30.0468431,
+      "lon": 31.3924089,
+      "tags": {
+        "name": "عباد الرحمن",
+        "name:ar": "عباد الرحمن",
+        "phone": "4117793",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965091,
+      "lat": 30.0466347,
+      "lon": 31.3917916,
+      "tags": {
+        "name": "المروة",
+        "name:ar": "المروة",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965092,
+      "lat": 30.0395506,
+      "lon": 31.3976922,
+      "tags": {
+        "name": "اكسبرس",
+        "name:ar": "اكسبرس",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965093,
+      "lat": 30.0396121,
+      "lon": 31.3974384,
+      "tags": {
+        "addr:street": "ع 2061",
+        "name": "الحمد",
+        "name:ar": "الحمد",
+        "phone": "01092912771",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965094,
+      "lat": 30.0405062,
+      "lon": 31.397773,
+      "tags": {
+        "name": "تاج الدين",
+        "name:ar": "تاج الدين",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965095,
+      "lat": 30.0504506,
+      "lon": 31.3968049,
+      "tags": {
+        "name": "الحسيني",
+        "name:ar": "الحسيني",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965096,
+      "lat": 30.0497908,
+      "lon": 31.3922995,
+      "tags": {
+        "name": "الاسراء",
+        "name:ar": "يامال الشام",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965097,
+      "lat": 30.048311,
+      "lon": 31.3889825,
+      "tags": {
+        "name": "المصطفي",
+        "name:ar": "المصطفي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965098,
+      "lat": 30.0453346,
+      "lon": 31.3901014,
+      "tags": {
+        "name": "بركه",
+        "name:ar": "بركه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965099,
+      "lat": 30.0489468,
+      "lon": 31.3963547,
+      "tags": {
+        "name": "مهاب",
+        "name:ar": "مهاب",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184965985,
+      "lat": 30.0489448,
+      "lon": 31.3974549,
+      "tags": {
+        "name": "تبارك",
+        "name:ar": "تبارك",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184966385,
+      "lat": 30.0421914,
+      "lon": 31.3973488,
+      "tags": {
+        "name": "الندي",
+        "name:ar": "الندي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187318611,
+      "lat": 30.0521658,
+      "lon": 31.4006719,
+      "tags": {
+        "name": "زهراء المدنيه",
+        "name:ar": "زهراء المدنيه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187318697,
+      "lat": 30.0414412,
+      "lon": 31.3975302,
+      "tags": {
+        "name": "الحوت",
+        "name:ar": "الحوت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187318698,
+      "lat": 30.0413108,
+      "lon": 31.3979884,
+      "tags": {
+        "name": "الانوار المحمديه",
+        "name:ar": "الانوار المحمديه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187318699,
+      "lat": 30.050023,
+      "lon": 31.3840974,
+      "tags": {
+        "name": "الحمزاوي",
+        "name:ar": "الحمزاوي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187318700,
+      "lat": 30.0555813,
+      "lon": 31.390904,
+      "tags": {
+        "name": "الرضا",
+        "name:ar": "الرضا",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187318701,
+      "lat": 30.0538597,
+      "lon": 31.3958315,
+      "tags": {
+        "name": "المصريه",
+        "name:ar": "المصريه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187318702,
+      "lat": 30.0530037,
+      "lon": 31.3957911,
+      "tags": {
+        "name": "صافي",
+        "name:ar": "صافي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187318788,
+      "lat": 30.0489338,
+      "lon": 31.3855225,
+      "tags": {
+        "name": "سمايل",
+        "name:ar": "سمايل",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187320285,
+      "lat": 30.0430421,
+      "lon": 31.3968025,
+      "tags": {
+        "name": "العالميه 2",
+        "name:ar": "العالميه 2",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187443386,
+      "lat": 30.1619555,
+      "lon": 31.6077458,
+      "tags": {
+        "name": "مقلة الشروق",
+        "name:ar": "مقلة الشروق",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187445785,
+      "lat": 30.1619518,
+      "lon": 31.6081492,
+      "tags": {
+        "name": "السوبر القديم",
+        "name:ar": "السوبر القديم",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187735488,
+      "lat": 30.1612573,
+      "lon": 31.6103705,
+      "tags": {
+        "name": "الدكتور",
+        "name:ar": "الدكتور",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187735489,
+      "lat": 30.1555159,
+      "lon": 31.6158207,
+      "tags": {
+        "name": "السندباد",
+        "name:ar": "السندباد",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187735690,
+      "lat": 30.1609787,
+      "lon": 31.610365,
+      "tags": {
+        "name": "عمر",
+        "name:ar": "عمر",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187735691,
+      "lat": 30.1610803,
+      "lon": 31.6097629,
+      "tags": {
+        "name": "الحمد",
+        "name:ar": "الحمد",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187735692,
+      "lat": 30.1581518,
+      "lon": 31.6036292,
+      "tags": {
+        "name": "العائلات",
+        "name:ar": "العائلات",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187735693,
+      "lat": 30.1565001,
+      "lon": 31.6097181,
+      "tags": {
+        "name": "جنه",
+        "name:ar": "جنه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187735694,
+      "lat": 30.1563774,
+      "lon": 31.6096999,
+      "tags": {
+        "name": "طيبه",
+        "name:ar": "طيبه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187763786,
+      "lat": 30.1565678,
+      "lon": 31.6093583,
+      "tags": {
+        "name": "البركه",
+        "name:ar": "البركه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187763986,
+      "lat": 30.1561279,
+      "lon": 31.6097601,
+      "tags": {
+        "name": "المصطفي",
+        "name:ar": "المصطفي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187763987,
+      "lat": 30.1549301,
+      "lon": 31.6083013,
+      "tags": {
+        "name": "الجوهرة",
+        "name:ar": "الجوهرة",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187763988,
+      "lat": 30.1620777,
+      "lon": 31.6038869,
+      "tags": {
+        "name": "السماح",
+        "name:ar": "السماح",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187774885,
+      "lat": 30.1557628,
+      "lon": 31.6083407,
+      "tags": {
+        "name": "الفرسان",
+        "name:ar": "الفرسان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6195244986,
+      "lat": 30.1353453,
+      "lon": 31.6126788,
+      "tags": {
+        "name": "الاسرة السعيده",
+        "name:ar": "الاسرة السعيده",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6195252886,
+      "lat": 30.1632994,
+      "lon": 31.6911598,
+      "tags": {
+        "name": "الاوقاف",
+        "name:ar": "الاوقاف",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6195252887,
+      "lat": 30.1409752,
+      "lon": 31.7297952,
+      "tags": {
+        "name": "ال عبدالرحمن",
+        "name:ar": "ال عبدالرحمن",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6195252888,
+      "lat": 30.1367497,
+      "lon": 31.6135023,
+      "tags": {
+        "name": "مترو",
+        "name:ar": "مترو",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6195270186,
+      "lat": 30.1388372,
+      "lon": 31.7181646,
+      "tags": {
+        "name": "هايبر ماركت",
+        "name:ar": "هايبر ماركت",
+        "phone": "01002442238",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6195285185,
+      "lat": 30.1590735,
+      "lon": 31.6985015,
+      "tags": {
+        "name": "الياسمين 3",
+        "name:ar": "الياسمين 3",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6195285186,
+      "lat": 30.1383275,
+      "lon": 31.730456,
+      "tags": {
+        "name": "الدكان",
+        "name:ar": "الدكان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6195285187,
+      "lat": 30.141269,
+      "lon": 31.7297614,
+      "tags": {
+        "name": "العمده",
+        "name:ar": "العمده",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6195285385,
+      "lat": 30.159351,
+      "lon": 31.6969631,
+      "tags": {
+        "name": "السروجي",
+        "name:ar": "السروجي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6195285386,
+      "lat": 30.1625565,
+      "lon": 31.6950843,
+      "tags": {
+        "name": "النرجس",
+        "name:ar": "النرجس",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6195285387,
+      "lat": 30.1437442,
+      "lon": 31.7280866,
+      "tags": {
+        "name": "الهدايه",
+        "name:ar": "الهدايه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6195325185,
+      "lat": 30.1355241,
+      "lon": 31.7177255,
+      "tags": {
+        "name": "العمده",
+        "name:ar": "العمده",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6195333885,
+      "lat": 30.1619962,
+      "lon": 31.5546946,
+      "tags": {
+        "name": "الشاعر",
+        "name:ar": "الشاعر",
+        "phone": "01032380666",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6209874587,
+      "lat": 30.0414787,
+      "lon": 31.3933695,
+      "tags": {
+        "name": "حميدو",
+        "name:ar": "حميدو",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6209874588,
+      "lat": 30.0471167,
+      "lon": 31.386627,
+      "tags": {
+        "name": "الحمد",
+        "name:ar": "الحمد",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6209888985,
+      "lat": 30.0473374,
+      "lon": 31.3876799,
+      "tags": {
+        "name": "بطه",
+        "name:ar": "بطه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6224453887,
+      "lat": 30.0704038,
+      "lon": 31.457179,
+      "tags": {
+        "name": "الخليل",
+        "name:ar": "الخليل",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6224453888,
+      "lat": 30.0704017,
+      "lon": 31.4543536,
+      "tags": {
+        "name": "نور الهدي",
+        "name:ar": "نور الهدي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6224453889,
+      "lat": 30.0590714,
+      "lon": 31.4612956,
+      "tags": {
+        "name": "سيجما",
+        "name:ar": "سيجما",
+        "name:en": "Sigma",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6224453890,
+      "lat": 30.0613187,
+      "lon": 31.46026,
+      "tags": {
+        "name": "الحمد",
+        "name:ar": "الحمد",
+        "name:en": "Thank",
+        "note": "English translation may not be accurate. Retranslation may be necessary.",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6224455686,
+      "lat": 30.045265,
+      "lon": 31.3848715,
+      "tags": {
+        "name": "الشبراوي",
+        "name:ar": "الشبراوي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6224483685,
+      "lat": 30.0526883,
+      "lon": 31.3977791,
+      "tags": {
+        "name": "زهراء المدينه",
+        "name:ar": "زهراء المدينه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6224483787,
+      "lat": 30.0704526,
+      "lon": 31.4548768,
+      "tags": {
+        "name": "التوحيد",
+        "name:ar": "التوحيد",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246295294,
+      "lat": 30.0506062,
+      "lon": 31.3839487,
+      "tags": {
+        "name": "الاصدقاء",
+        "name:ar": "الاصدقاء",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246295393,
+      "lat": 30.0495596,
+      "lon": 31.4017083,
+      "tags": {
+        "name": "مكه",
+        "name:ar": "مكه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246295586,
+      "lat": 30.054113,
+      "lon": 31.3889205,
+      "tags": {
+        "name": "الغوال",
+        "name:ar": "الغوال",
+        "phone": "01146704764",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246795387,
+      "lat": 30.0546755,
+      "lon": 31.4590923,
+      "tags": {
+        "name": "البركه",
+        "name:ar": "البركه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246795388,
+      "lat": 30.0597873,
+      "lon": 31.4593791,
+      "tags": {
+        "name": "اولاد ابو القاسم",
+        "name:ar": "اولاد ابو القاسم",
+        "name:en": "Sons of Abu Alqasem",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246795389,
+      "lat": 30.0600015,
+      "lon": 31.4583966,
+      "tags": {
+        "name": "سما",
+        "name:ar": "سما",
+        "name:en": "Sama",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246795390,
+      "lat": 30.0607027,
+      "lon": 31.4548972,
+      "tags": {
+        "name": "سرجة التقوي",
+        "name:ar": "سرجة التقوي",
+        "name:en": "Saddle of piety",
+        "phone": "01147695105",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246795391,
+      "lat": 30.0610119,
+      "lon": 31.4542049,
+      "tags": {
+        "name": "اولاد رجب",
+        "name:ar": "اولاد رجب",
+        "name:en": "Ragab Sons",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246795392,
+      "lat": 30.0680473,
+      "lon": 31.4568434,
+      "tags": {
+        "name": "تبارك",
+        "name:ar": "تبارك",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246806885,
+      "lat": 30.0571977,
+      "lon": 31.4594516,
+      "tags": {
+        "name": "ارزاق",
+        "name:ar": "ارزاق",
+        "name:en": "Livelihoods",
+        "note": "English translation may not be accurate. Retranslation may be necessary.",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246806886,
+      "lat": 30.0546655,
+      "lon": 31.4597096,
+      "tags": {
+        "addr:street": "ع 117",
+        "name": "ادم",
+        "name:ar": "ادم",
+        "operator": "ابو ادم",
+        "phone": "01068779919",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246806887,
+      "lat": 30.0543187,
+      "lon": 31.4547368,
+      "tags": {
+        "addr:street": "الشباب الجنوبي",
+        "name": "عبدالواحد البلكيمي",
+        "name:ar": "عبدالواحد البلكيمي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246806888,
+      "lat": 30.0546733,
+      "lon": 31.4560711,
+      "tags": {
+        "addr:street": "الشباب الجنوبي",
+        "name": "العمده",
+        "name:ar": "العمده",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246806889,
+      "lat": 30.0569637,
+      "lon": 31.4544563,
+      "tags": {
+        "name": "المدينه المنورة",
+        "name:ar": "المدينه المنورة",
+        "name:en": "Al , Madina Al , Munawara",
+        "note": "English translation may not be accurate. Retranslation may be necessary.",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246806985,
+      "lat": 30.0568,
+      "lon": 31.4545149,
+      "tags": {
+        "name": "الايمان",
+        "name:ar": "الايمان",
+        "name:en": "Faith",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246812285,
+      "lat": 30.0605722,
+      "lon": 31.4557102,
+      "tags": {
+        "name": "النور",
+        "name:ar": "النور",
+        "name:en": "Light",
+        "phone": "01143453197",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246812485,
+      "lat": 30.0607384,
+      "lon": 31.4541843,
+      "tags": {
+        "name": "المدينه المنورة",
+        "name:ar": "المدينه المنورة",
+        "name:en": "Al , Madina Al , Munawara",
+        "note": "English translation may not be accurate. Retranslation may be necessary.",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246812486,
+      "lat": 30.0715565,
+      "lon": 31.4576269,
+      "tags": {
+        "name": "الرحاب",
+        "name:ar": "الرحاب",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246830987,
+      "lat": 30.0640205,
+      "lon": 31.468028,
+      "tags": {
+        "name": "جولف",
+        "name:ar": "جولف",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246853986,
+      "lat": 30.0589572,
+      "lon": 31.4605254,
+      "tags": {
+        "name": "اولاد صقر",
+        "name:ar": "اولاد صقر",
+        "name:en": "Saqr's sons",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6246854785,
+      "lat": 30.063704,
+      "lon": 31.4686098,
+      "tags": {
+        "name": "اون لاين",
+        "name:ar": "اون لاين",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6247159786,
+      "lat": 30.0638226,
+      "lon": 31.4574221,
+      "tags": {
+        "name": "عباد الرحمن",
+        "name:ar": "عباد الرحمن",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6248946488,
+      "lat": 29.9754083,
+      "lon": 31.3970979,
+      "tags": {
+        "name": "ميني كارفور",
+        "name:ar": "ميني كارفور",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6248946489,
+      "lat": 29.9759142,
+      "lon": 31.3970267,
+      "tags": {
+        "name": "السني",
+        "name:ar": "السني",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249399786,
+      "lat": 29.9759535,
+      "lon": 31.4049398,
+      "tags": {
+        "name": "الرحمه",
+        "name:ar": "الرحمه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249437388,
+      "lat": 29.9749221,
+      "lon": 31.3970704,
+      "tags": {
+        "name": "المنوفي",
+        "name:ar": "المنوفي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249437389,
+      "lat": 29.9752639,
+      "lon": 31.3970449,
+      "tags": {
+        "name": "الحرمين",
+        "name:ar": "الحرمين",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249437390,
+      "lat": 29.9778874,
+      "lon": 31.3981036,
+      "tags": {
+        "name": "ابو كريم",
+        "name:ar": "ابو كريم",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249437391,
+      "lat": 29.9787272,
+      "lon": 31.3982966,
+      "tags": {
+        "name": "عبده و ادم",
+        "name:ar": "عبده و ادم",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249474885,
+      "lat": 29.9775046,
+      "lon": 31.3972542,
+      "tags": {
+        "name": "نجمة المحموديه",
+        "name:ar": "نجمة المحموديه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249475386,
+      "lat": 29.9758983,
+      "lon": 31.3986342,
+      "tags": {
+        "name": "سنابل الخير",
+        "name:ar": "سنابل الخير",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249495185,
+      "lat": 29.9777756,
+      "lon": 31.3995853,
+      "tags": {
+        "name": "اولاد نصار",
+        "name:ar": "اولاد نصار",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249495285,
+      "lat": 29.9780112,
+      "lon": 31.4003026,
+      "tags": {
+        "name": "حسين المصري",
+        "name:ar": "حسين المصري",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249544386,
+      "lat": 29.9813377,
+      "lon": 31.4067637,
+      "tags": {
+        "name": "الحرمين",
+        "name:ar": "الحرمين",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6255492085,
+      "lat": 29.9815476,
+      "lon": 31.40701,
+      "tags": {
+        "addr:street": "اجيكو",
+        "name": "الحمد",
+        "name:ar": "الحمد",
+        "phone": "01119926742",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6255492086,
+      "lat": 30.1643742,
+      "lon": 31.6964661,
+      "tags": {
+        "name": "بسيوني",
+        "name:ar": "بسيوني",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6255492087,
+      "lat": 30.1619864,
+      "lon": 31.7031894,
+      "tags": {
+        "name": "ابو عبدالله",
+        "name:ar": "ابو عبدالله",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6255492088,
+      "lat": 30.160699,
+      "lon": 31.7010196,
+      "tags": {
+        "name": "الياسمين 1",
+        "name:ar": "الياسمين 1",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6255492089,
+      "lat": 30.1432146,
+      "lon": 31.7241263,
+      "tags": {
+        "name": "ال البيت",
+        "name:ar": "ال البيت",
+        "phone": "01125609013",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6274343985,
+      "lat": 30.0742315,
+      "lon": 31.2426191,
+      "tags": {
+        "name": "جمله",
+        "name:ar": "جمله",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6297535586,
+      "lat": 29.9616591,
+      "lon": 31.2779852,
+      "tags": {
+        "check_date": "2024-01-04",
+        "level": "-1",
+        "name": "Carrefour Market",
+        "name:ar": "كارفور ماركت",
+        "name:en": "Carrefour Market",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6308202287,
+      "lat": 30.0543221,
+      "lon": 31.3645719,
+      "tags": {
+        "name": "الانوار المحمديه",
+        "name:ar": "الانوار المحمديه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6308216387,
+      "lat": 30.0536738,
+      "lon": 31.36889,
+      "tags": {
+        "name": "تبارك",
+        "name:ar": "تبارك",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6350798885,
+      "lat": 30.0479005,
+      "lon": 31.2608844,
+      "tags": {
+        "name": "Bazaar",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6382884377,
+      "lat": 30.0686798,
+      "lon": 31.4544952,
+      "tags": {
+        "addr:city": "القاهرة الجديدة",
+        "addr:city:en": "New Cairo",
+        "addr:country": "EG",
+        "addr:district": "التجمع الأول",
+        "addr:district:en": "First Settlement",
+        "addr:housenumber": "13B",
+        "addr:postcode": "11865",
+        "addr:province": "القاهرة",
+        "addr:province:en": "Cairo",
+        "addr:street": "شارع الشهيد وائل عبد الجابر",
+        "addr:street:en": "El Shahied Wael Abd El Gaber Street",
+        "addr:subdistrict": "المجاورة 3",
+        "addr:subdistrict:en": "Neighborhood 3",
+        "name": "القاضى",
+        "name:ar": "القاضى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6398112585,
+      "lat": 30.0409233,
+      "lon": 31.3777455,
+      "tags": {
+        "name": "اولاد عبدالرحيم",
+        "name:ar": "اولاد عبدالرحيم",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6466543885,
+      "lat": 30.1553137,
+      "lon": 31.4093396,
+      "tags": {
+        "name": "منفذ بيع القوات المسلحة",
+        "name:ar": "منفذ بيع القوات المسلحة",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6553526588,
+      "lat": 30.0422163,
+      "lon": 31.2577493,
+      "tags": {
+        "name": "Mercado de fabricantes de toldos",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6553527285,
+      "lat": 30.0477448,
+      "lon": 31.2615078,
+      "tags": {
+        "name": "Khan Al Khalili",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6581746977,
+      "lat": 30.0989824,
+      "lon": 31.3420082,
+      "tags": {
+        "addr:country": "EG",
+        "addr:district": "النزهه",
+        "addr:district:en": "Al Nozha",
+        "addr:housenumber": "3",
+        "addr:postcode": "11843",
+        "addr:province": "القاهرة",
+        "addr:province:en": "Cairo",
+        "addr:street": "شارع الشيخ عبد الوهاب النجار",
+        "addr:street:en": "Al Sheikh Abd Al Wahab Al Nagar Street",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6581746978,
+      "lat": 30.0989614,
+      "lon": 31.3421666,
+      "tags": {
+        "addr:country": "EG",
+        "addr:district": "النزهه",
+        "addr:district:en": "Al Nozha",
+        "addr:housenumber": "3",
+        "addr:postcode": "11843",
+        "addr:province": "القاهرة",
+        "addr:province:en": "Cairo",
+        "addr:street": "شارع الشيخ عبد الوهاب النجار",
+        "addr:street:en": "Al Sheikh Abd Al Wahab Al Nagar Street",
+        "name": "oscar pet shop",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6586947746,
+      "lat": 30.0794485,
+      "lon": 31.6436635,
+      "tags": {
+        "addr:city:ar": "مدينتى",
+        "addr:city:en": "Madinaty",
+        "addr:country": "EG",
+        "addr:district:ar": "القاهرة الجديدة",
+        "addr:district:en": "New Cairo",
+        "addr:province": "القاهرة",
+        "addr:province:en": "Cairo",
+        "name:ar": "أولاد رجب",
+        "name:en": "Awlad Ragab",
+        "opening_hours": "24/7",
+        "operator": "Awlad Ragab Co.",
+        "payment:cash": "yes",
+        "phone": "19225",
+        "shop": "supermarket",
+        "website": "https://awladragab.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6632311236,
+      "lat": 30.1016654,
+      "lon": 31.344883,
+      "tags": {
+        "addr:country": "EG",
+        "addr:district:ar": "النزهه",
+        "addr:district:en": "Heliopolis",
+        "addr:housenumber": "102",
+        "addr:postcode": "11843",
+        "addr:province:ar": "القاهرة",
+        "addr:province:en": "Cairo",
+        "addr:street:ar": "شارع عثمان بن عفان",
+        "addr:street:en": "Othman Ibn Affan Street",
+        "name:ar": "الفرجاني",
+        "name:en": "El Fergany",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6644462790,
+      "lat": 30.1522196,
+      "lon": 31.4291958,
+      "tags": {
+        "name": "Organic and More",
+        "opening_hours": "Su-Th 09:00-16:00",
+        "operator": "Sekem",
+        "payment:cash": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092285,
+      "lat": 30.0632871,
+      "lon": 31.3019387,
+      "tags": {
+        "name": "زمزم",
+        "name:ar": "زمزم",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092286,
+      "lat": 30.0633619,
+      "lon": 31.3023041,
+      "tags": {
+        "name": "الرضا",
+        "name:ar": "الرضا",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092287,
+      "lat": 30.0621452,
+      "lon": 31.3038866,
+      "tags": {
+        "name": "النور",
+        "name:ar": "النور",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092288,
+      "lat": 30.0613753,
+      "lon": 31.3057826,
+      "tags": {
+        "name": "جمعيتى",
+        "name:ar": "جمعيتى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092289,
+      "lat": 30.059198,
+      "lon": 31.3039793,
+      "tags": {
+        "name": "البان تاج الدين",
+        "name:ar": "البان تاج الدين",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092290,
+      "lat": 30.0590652,
+      "lon": 31.3031184,
+      "tags": {
+        "name": "احمد",
+        "name:ar": "احمد",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092291,
+      "lat": 30.0591621,
+      "lon": 31.3020973,
+      "tags": {
+        "name": "احمد",
+        "name:ar": "احمد",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092292,
+      "lat": 30.0590717,
+      "lon": 31.3031105,
+      "tags": {
+        "name": "المدينه",
+        "name:ar": "المدينه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092293,
+      "lat": 30.0563491,
+      "lon": 31.2979544,
+      "tags": {
+        "name": "الشيخ سامى",
+        "name:ar": "الشيخ سامى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092294,
+      "lat": 30.056996,
+      "lon": 31.2970029,
+      "tags": {
+        "name": "أسواق الصديق",
+        "name:ar": "أسواق الصديق",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092295,
+      "lat": 30.0566665,
+      "lon": 31.2965302,
+      "tags": {
+        "name": "ابو طارق",
+        "name:ar": "ابو طارق",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092296,
+      "lat": 30.0558542,
+      "lon": 31.2950952,
+      "tags": {
+        "name": "ك الرحمه",
+        "name:ar": "ك الرحمه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092297,
+      "lat": 30.0553821,
+      "lon": 31.2931712,
+      "tags": {
+        "name": "ك فايف ستار",
+        "name:ar": "ك فايف ستار",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092298,
+      "lat": 30.055351,
+      "lon": 31.2926643,
+      "tags": {
+        "name": "ك احمد حسين كعبيش",
+        "name:ar": "ك احمد حسين كعبيش",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092299,
+      "lat": 30.058132,
+      "lon": 31.3024643,
+      "tags": {
+        "name": "ك فايف ستار",
+        "name:ar": "ك فايف ستار",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092303,
+      "lat": 30.0886515,
+      "lon": 31.3431696,
+      "tags": {
+        "name": "البان قنديل",
+        "name:ar": "البان قنديل",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092304,
+      "lat": 30.0891568,
+      "lon": 31.3422438,
+      "tags": {
+        "name": "الصافورى",
+        "name:ar": "الصافورى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092305,
+      "lat": 30.0897874,
+      "lon": 31.3417842,
+      "tags": {
+        "name": "عامر",
+        "name:ar": "عامر",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092306,
+      "lat": 30.0876747,
+      "lon": 31.3414198,
+      "tags": {
+        "name": "ك الحريه",
+        "name:ar": "ك الحريه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092307,
+      "lat": 30.0901699,
+      "lon": 31.34493,
+      "tags": {
+        "name": "ك ابو بكر حسين",
+        "name:ar": "ك ابو بكر حسين",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092308,
+      "lat": 30.0879271,
+      "lon": 31.3459936,
+      "tags": {
+        "name": "ك",
+        "name:ar": "ك بينك",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092309,
+      "lat": 30.0901574,
+      "lon": 31.3410282,
+      "tags": {
+        "name": "ك الجزيره",
+        "name:ar": "ك الجزيره",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092310,
+      "lat": 30.089255,
+      "lon": 31.3383188,
+      "tags": {
+        "name": "كشك الله لا الله الا هو",
+        "name:ar": "كشك الله لا الله الا هو",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092311,
+      "lat": 30.0891642,
+      "lon": 31.3372207,
+      "tags": {
+        "name": "الاخلاص",
+        "name:ar": "الاخلاص",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092312,
+      "lat": 30.088919,
+      "lon": 31.3363876,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092313,
+      "lat": 30.0868316,
+      "lon": 31.3351278,
+      "tags": {
+        "name": "كشك المرغنى",
+        "name:ar": "كشك المرغنى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092314,
+      "lat": 30.0904774,
+      "lon": 31.348437,
+      "tags": {
+        "name": "ك الموقف سوبر جيت",
+        "name:ar": "ك الموقف سوبر جيت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092315,
+      "lat": 30.0883252,
+      "lon": 31.3504666,
+      "tags": {
+        "name": "ك الصفا والمروه",
+        "name:ar": "ك الصفا والمروه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092316,
+      "lat": 30.1097737,
+      "lon": 31.3308316,
+      "tags": {
+        "name": "الفردوس",
+        "name:ar": "الفردوس",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092317,
+      "lat": 30.1086774,
+      "lon": 31.3327763,
+      "tags": {
+        "name": "المصطفى",
+        "name:ar": "المصطفى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092318,
+      "lat": 30.0956548,
+      "lon": 31.3354101,
+      "tags": {
+        "name": "كشك",
+        "name:ar": "كشك",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092319,
+      "lat": 30.0964726,
+      "lon": 31.3350852,
+      "tags": {
+        "name": "كشك زهير عبد العاطى",
+        "name:ar": "كشك زهير عبد العاطى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092320,
+      "lat": 30.0937988,
+      "lon": 31.3247187,
+      "tags": {
+        "name": "كشك",
+        "name:ar": "كشك",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092321,
+      "lat": 30.130235,
+      "lon": 31.3757152,
+      "tags": {
+        "addr:street": "شارع الدكتور سمير شطا",
+        "name": "المؤمن",
+        "name:ar": "المؤمن",
+        "name:en": "El Mo'men",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092322,
+      "lat": 30.1300984,
+      "lon": 31.374627,
+      "tags": {
+        "name": "كايرو ماركت",
+        "name:ar": "كايرو ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092323,
+      "lat": 30.1364391,
+      "lon": 31.3885328,
+      "tags": {
+        "name": "الصحابه",
+        "name:ar": "الصحابه",
+        "name:en": "Companions",
+        "note": "Translation may not be accurate. Retranslation may be necessary.",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092324,
+      "lat": 30.1355126,
+      "lon": 31.3885,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092385,
+      "lat": 30.0633182,
+      "lon": 31.3021791,
+      "tags": {
+        "name": "بنده",
+        "name:ar": "بنده",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092387,
+      "lat": 30.0546285,
+      "lon": 31.2916434,
+      "tags": {
+        "name": "الشريف",
+        "name:ar": "الشريف",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092388,
+      "lat": 30.0586418,
+      "lon": 31.3035004,
+      "tags": {
+        "name": "محمصات النصر",
+        "name:ar": "محمصات النصر",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092389,
+      "lat": 30.0883668,
+      "lon": 31.3024769,
+      "tags": {
+        "name": "ك المقريزي",
+        "name:ar": "ك المقريزي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092390,
+      "lat": 30.097476,
+      "lon": 31.3215679,
+      "tags": {
+        "name": "ك ابو زيد",
+        "name:ar": "ك ابو زيد",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092391,
+      "lat": 30.0980668,
+      "lon": 31.3223947,
+      "tags": {
+        "name": "ك نجمة روكسي",
+        "name:ar": "ك نجمة روكسي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092393,
+      "lat": 30.0887673,
+      "lon": 31.3429801,
+      "tags": {
+        "name": "ثابت متركت",
+        "name:ar": "ثابت متركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092394,
+      "lat": 30.0904892,
+      "lon": 31.3423025,
+      "tags": {
+        "name": "ك نصر الاسلام",
+        "name:ar": "ك نصر الاسلام",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092395,
+      "lat": 30.0888849,
+      "lon": 31.3376619,
+      "tags": {
+        "name": "ك نجمة المرغنى",
+        "name:ar": "ك نجمة المرغنى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092396,
+      "lat": 30.1103423,
+      "lon": 31.3463088,
+      "tags": {
+        "name": "الجبلى",
+        "name:ar": "الجبلى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092397,
+      "lat": 30.0953908,
+      "lon": 31.3351818,
+      "tags": {
+        "name": "كشك",
+        "name:ar": "كشك",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092398,
+      "lat": 30.0934212,
+      "lon": 31.3243971,
+      "tags": {
+        "name": "كشك",
+        "name:ar": "كشك",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092399,
+      "lat": 30.1364417,
+      "lon": 31.3882884,
+      "tags": {
+        "name": "دهب",
+        "name:ar": "دهب",
+        "name:en": "Dahab",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092485,
+      "lat": 30.0614232,
+      "lon": 31.305744,
+      "tags": {
+        "name": "قشقوش",
+        "name:ar": "قشقوش",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092486,
+      "lat": 30.0583192,
+      "lon": 31.3020331,
+      "tags": {
+        "name": "كشك",
+        "name:ar": "كشك",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092487,
+      "lat": 30.0578969,
+      "lon": 31.3012408,
+      "tags": {
+        "name": "سوبر ماركت عمارات الظباط",
+        "name:ar": "سوبر ماركت عمارات الظباط",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092488,
+      "lat": 30.056695,
+      "lon": 31.2988728,
+      "tags": {
+        "name": "ك عباد الرحمن",
+        "name:ar": "ك عباد الرحمن",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092489,
+      "lat": 30.0611427,
+      "lon": 31.301445,
+      "tags": {
+        "name": "ابو عرفات",
+        "name:ar": "ابو عرفات",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092491,
+      "lat": 30.0964065,
+      "lon": 31.3203869,
+      "tags": {
+        "name": "الحجاز إكسبرس",
+        "name:ar": "الحجاز إكسبرس",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092494,
+      "lat": 30.0888197,
+      "lon": 31.3429042,
+      "tags": {
+        "name": "المقلة الحديثه",
+        "name:ar": "المقلة الحديثه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092495,
+      "lat": 30.0891055,
+      "lon": 31.3372642,
+      "tags": {
+        "name": "شمس",
+        "name:ar": "شمس",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092585,
+      "lat": 30.0590354,
+      "lon": 31.3034993,
+      "tags": {
+        "name": "مكه",
+        "name:ar": "مكه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092586,
+      "lat": 30.0592476,
+      "lon": 31.3029801,
+      "tags": {
+        "name": "أسواق الحسن",
+        "name:ar": "أسواق الحسن",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092587,
+      "lat": 30.0554726,
+      "lon": 31.2929434,
+      "tags": {
+        "name": "ك ان فتحنا لك فتحا مبينا",
+        "name:ar": "ك ان فتحنا لك فتحا مبينا",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092588,
+      "lat": 30.0900757,
+      "lon": 31.3412591,
+      "tags": {
+        "name": "ك احمد مجدى",
+        "name:ar": "ك احمد مجدى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092685,
+      "lat": 30.0582635,
+      "lon": 31.2969082,
+      "tags": {
+        "name": "كشك ابو طه",
+        "name:ar": "كشك ابو طه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092692,
+      "lat": 30.0886292,
+      "lon": 31.3440155,
+      "tags": {
+        "name": "ك نجمة الماظه",
+        "name:ar": "ك نجمة الماظه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092693,
+      "lat": 30.090079,
+      "lon": 31.3484992,
+      "tags": {
+        "name": "ك الموقف٢",
+        "name:ar": "ك الموقف٢",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092694,
+      "lat": 30.0896214,
+      "lon": 31.3491017,
+      "tags": {
+        "name": "كشك",
+        "name:ar": "كشك",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092695,
+      "lat": 30.0972019,
+      "lon": 31.3398313,
+      "tags": {
+        "name": "ك مملكة الجبل",
+        "name:ar": "ك مملكة الجبل",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092696,
+      "lat": 30.0972356,
+      "lon": 31.3374236,
+      "tags": {
+        "name": "نجمة سفير",
+        "name:ar": "نجمة سفير",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092697,
+      "lat": 30.0995106,
+      "lon": 31.3418442,
+      "tags": {
+        "name": "نجمة تريومف الجديده",
+        "name:ar": "نجمة تريومف الجديده",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092698,
+      "lat": 30.1004193,
+      "lon": 31.343726,
+      "tags": {
+        "name": "اولاد الحاج على حسن",
+        "name:ar": "اولاد الحاج على حسن",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712092885,
+      "lat": 30.0890056,
+      "lon": 31.3442659,
+      "tags": {
+        "name": "ك العمده",
+        "name:ar": "ك العمده",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6718246187,
+      "lat": 30.0509997,
+      "lon": 31.2342636,
+      "tags": {
+        "addr:city": "القاهرة",
+        "name": "كشك سوبر جيت",
+        "name:ar": "كشك سوبر جيت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6718246188,
+      "lat": 30.0756093,
+      "lon": 31.2301976,
+      "tags": {
+        "name": "بقالة",
+        "name:ar": "بقالة",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6718246189,
+      "lat": 30.0754313,
+      "lon": 31.2301394,
+      "tags": {
+        "name": "بقالة",
+        "name:ar": "بقالة",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6724838085,
+      "lat": 30.0769866,
+      "lon": 31.6577824,
+      "tags": {
+        "name": "الحسيني ماركت",
+        "name:ar": "الحسيني ماركت",
+        "name:en": "El-Husseiny Market",
+        "opening_hours": "24/7",
+        "phone": "+20 110 098 7655",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6784997087,
+      "lat": 30.08018,
+      "lon": 31.3286745,
+      "tags": {
+        "name": "ك المروه",
+        "name:ar": "ك المروه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6784997088,
+      "lat": 30.0712093,
+      "lon": 31.3439277,
+      "tags": {
+        "name": "ك الارزاق بالله",
+        "name:ar": "ك الارزاق بالله",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6785010386,
+      "lat": 30.080742,
+      "lon": 31.3323552,
+      "tags": {
+        "name": "ك مبروك",
+        "name:ar": "ك مبروك",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6785010387,
+      "lat": 30.0831,
+      "lon": 31.3347271,
+      "tags": {
+        "name": "ك جلال",
+        "name:ar": "ك جلال",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6785010388,
+      "lat": 30.0808839,
+      "lon": 31.335148,
+      "tags": {
+        "name": "أسواق المدينه",
+        "name:ar": "أسواق المدينه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6785010389,
+      "lat": 30.0795554,
+      "lon": 31.3283679,
+      "tags": {
+        "name": "المحبه",
+        "name:ar": "المحبه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6785010390,
+      "lat": 30.0715088,
+      "lon": 31.4577482,
+      "tags": {
+        "name": "أسواق الرحاب",
+        "name:ar": "أسواق الرحاب",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6785010391,
+      "lat": 30.0739016,
+      "lon": 31.3433112,
+      "tags": {
+        "name": "مترو اكسبرس",
+        "name:ar": "مترو اكسبرس",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6785012885,
+      "lat": 30.0808785,
+      "lon": 31.3337412,
+      "tags": {
+        "name": "الاسوانى",
+        "name:ar": "الاسوانى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6785012985,
+      "lat": 30.0811278,
+      "lon": 31.3335321,
+      "tags": {
+        "name": "صحافة الجولف",
+        "name:ar": "صحافة الجولف",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6785012986,
+      "lat": 30.0821957,
+      "lon": 31.3394727,
+      "tags": {
+        "name": "ك برشلونه",
+        "name:ar": "ك برشلونه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6785012987,
+      "lat": 30.074371,
+      "lon": 31.3430482,
+      "tags": {
+        "name": "زيدان",
+        "name:ar": "زيدان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6785013085,
+      "lat": 30.0811571,
+      "lon": 31.334496,
+      "tags": {
+        "name": "ك زهرة الجولف",
+        "name:ar": "ك زهرة الجولف",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6785013086,
+      "lat": 30.0830576,
+      "lon": 31.3347914,
+      "tags": {
+        "name": "عمران ماركت",
+        "name:ar": "عمران ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6785013087,
+      "lat": 30.0810195,
+      "lon": 31.3371029,
+      "tags": {
+        "name": "أسواق البركه",
+        "name:ar": "أسواق البركه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6785013485,
+      "lat": 30.0705227,
+      "lon": 31.4570821,
+      "tags": {
+        "name": "خليل",
+        "name:ar": "خليل",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6807490985,
+      "lat": 29.9852319,
+      "lon": 31.2720728,
+      "tags": {
+        "name": "مقلة الفيومى",
+        "name:ar": "مقلة الفيومى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6807490986,
+      "lat": 29.9916736,
+      "lon": 31.3180626,
+      "tags": {
+        "name": "نجمة الهضبه",
+        "name:ar": "نجمة الهضبه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6807491085,
+      "lat": 29.9792314,
+      "lon": 31.2651085,
+      "tags": {
+        "name": "مقلة ابو سته",
+        "name:ar": "مقلة ابو سته",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832644686,
+      "lat": 30.0088327,
+      "lon": 31.3030695,
+      "tags": {
+        "name": "أسواق المهر",
+        "name:ar": "أسواق المهر",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832644687,
+      "lat": 30.007562,
+      "lon": 31.3038506,
+      "tags": {
+        "name": "المحمدى",
+        "name:ar": "المحمدى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832646985,
+      "lat": 30.0713197,
+      "lon": 31.4563362,
+      "tags": {
+        "name": "مدرسة ابراهيم الرفاعى",
+        "name:ar": "مدرسة ابراهيم الرفاعى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832646986,
+      "lat": 30.0684091,
+      "lon": 31.4558824,
+      "tags": {
+        "name": "إدارة المدينه المنورة",
+        "name:ar": "إدارة المدينه المنورة",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832646987,
+      "lat": 30.0682014,
+      "lon": 31.4551511,
+      "tags": {
+        "name": "محمصات النور",
+        "name:ar": "محمصات النور",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832646988,
+      "lat": 30.0605116,
+      "lon": 31.4548637,
+      "tags": {
+        "name": "يرجى التقوى",
+        "name:ar": "يرجى التقوى",
+        "name:en": "Please be pious",
+        "note": "English translation may not be accurate. Retranslation may be necessary.",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832646989,
+      "lat": 30.060635,
+      "lon": 31.455335,
+      "tags": {
+        "name": "الرحمه",
+        "name:ar": "الرحمه",
+        "name:en": "Mercy",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832646990,
+      "lat": 30.0605708,
+      "lon": 31.4560792,
+      "tags": {
+        "name": "المدينه المنورة",
+        "name:ar": "المدينه المنورة",
+        "name:en": "Al , Madina Al , Munawara",
+        "note": "English translation may not be accurate. Retranslation may be necessary.",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832646991,
+      "lat": 30.0604585,
+      "lon": 31.4566601,
+      "tags": {
+        "name": "محمصات عباد الرحمن",
+        "name:ar": "محمصات عباد الرحمن",
+        "name:en": "Ebad Alrahman Roasters",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832646992,
+      "lat": 30.0599506,
+      "lon": 31.4582539,
+      "tags": {
+        "name": "القدس",
+        "name:ar": "القدس",
+        "name:en": "Jerusalem",
+        "note": "English translation may not be accurate. Retranslation may be necessary.",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832646993,
+      "lat": 30.0611873,
+      "lon": 31.452442,
+      "tags": {
+        "name": "طيبه",
+        "name:ar": "طيبه",
+        "name:en": "Good",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832646994,
+      "lat": 30.0608995,
+      "lon": 31.4538284,
+      "tags": {
+        "name": "ابو عبدالله",
+        "name:ar": "ابو عبدالله",
+        "name:en": "Abu Abdullah",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832646995,
+      "lat": 30.0665588,
+      "lon": 31.4583948,
+      "tags": {
+        "name": "المصرى",
+        "name:ar": "المصرى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832646999,
+      "lat": 30.008633,
+      "lon": 31.3029873,
+      "tags": {
+        "name": "مراعى سونستا",
+        "name:ar": "مراعى سونستا",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647000,
+      "lat": 30.0069336,
+      "lon": 31.310279,
+      "tags": {
+        "name": "الطيبين",
+        "name:ar": "الطيبين",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647085,
+      "lat": 30.0683656,
+      "lon": 31.4563042,
+      "tags": {
+        "name": "مقلة لؤلؤة التجمع",
+        "name:ar": "مقلة لؤلؤة التجمع",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647086,
+      "lat": 30.0684869,
+      "lon": 31.4552742,
+      "tags": {
+        "name": "إدارة اولاد شعيب",
+        "name:ar": "إدارة اولاد شعيب",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647087,
+      "lat": 30.0683602,
+      "lon": 31.4539474,
+      "tags": {
+        "name": "ريم",
+        "name:ar": "ريم",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647088,
+      "lat": 30.0682643,
+      "lon": 31.4549405,
+      "tags": {
+        "name": "الفتح",
+        "name:ar": "الفتح",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647089,
+      "lat": 30.0682595,
+      "lon": 31.4550601,
+      "tags": {
+        "name": "البان اولاد رمضان",
+        "name:ar": "البان اولاد رمضان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647090,
+      "lat": 30.0682156,
+      "lon": 31.4550691,
+      "tags": {
+        "name": "البركه",
+        "name:ar": "البركه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647091,
+      "lat": 30.0681817,
+      "lon": 31.4552462,
+      "tags": {
+        "name": "سوريا ماركت",
+        "name:ar": "سوريا ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647092,
+      "lat": 30.0681026,
+      "lon": 31.4556779,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647093,
+      "lat": 30.0606525,
+      "lon": 31.455706,
+      "tags": {
+        "name": "النور",
+        "name:ar": "النور",
+        "name:en": "Light",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647094,
+      "lat": 30.0604348,
+      "lon": 31.4560017,
+      "tags": {
+        "name": "بدر",
+        "name:ar": "بدر",
+        "name:en": "full moon",
+        "note": "English translation may not be accurate. Retranslation may be necessary.",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647095,
+      "lat": 30.0603447,
+      "lon": 31.4566245,
+      "tags": {
+        "name": "أسواق عبد العزيز",
+        "name:ar": "أسواق عبد العزيز",
+        "name:en": "Abdul Aziz Markets",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647096,
+      "lat": 30.0600112,
+      "lon": 31.4585018,
+      "tags": {
+        "name": "سما",
+        "name:ar": "سما",
+        "name:en": "Sama",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647097,
+      "lat": 30.0609551,
+      "lon": 31.45427,
+      "tags": {
+        "name": "اولاد رجب",
+        "name:ar": "اولاد رجب",
+        "name:en": "Ragab Sons",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647098,
+      "lat": 30.0641873,
+      "lon": 31.4561126,
+      "tags": {
+        "name": "زمزم",
+        "name:ar": "زمزم",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647099,
+      "lat": 30.0680297,
+      "lon": 31.4569097,
+      "tags": {
+        "name": "تبارك",
+        "name:ar": "تبارك",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647100,
+      "lat": 30.0706062,
+      "lon": 31.4600386,
+      "tags": {
+        "name": "زهرة الشام",
+        "name:ar": "زهرة الشام",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647102,
+      "lat": 30.0148014,
+      "lon": 31.282452,
+      "tags": {
+        "name": "سمسم",
+        "name:ar": "سمسم",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647103,
+      "lat": 30.0085208,
+      "lon": 31.3029529,
+      "tags": {
+        "name": "ابو علاء",
+        "name:ar": "ابو علاء",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647104,
+      "lat": 30.0038288,
+      "lon": 31.3182664,
+      "tags": {
+        "name": "الامانه",
+        "name:ar": "الامانه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647285,
+      "lat": 30.0601333,
+      "lon": 31.4575086,
+      "tags": {
+        "name": "مقلة",
+        "name:ar": "مقلة",
+        "name:en": "Eyeball",
+        "note": "English translation may not be accurate. Retranslation may be necessary.",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647286,
+      "lat": 30.0606941,
+      "lon": 31.4543171,
+      "tags": {
+        "name": "عطارة المدينه المنورة",
+        "name:ar": "عطارة المدينه المنورة",
+        "name:en": "Perfume of Medina",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647288,
+      "lat": 30.0087441,
+      "lon": 31.303038,
+      "tags": {
+        "name": "مكتبة الفتح",
+        "name:ar": "مكتبة الفتح",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832647385,
+      "lat": 30.0613402,
+      "lon": 31.4531049,
+      "tags": {
+        "name": "ابو محمد",
+        "name:ar": "ابو محمد",
+        "name:en": "Abu Muhammad",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832688085,
+      "lat": 30.007488,
+      "lon": 31.3154154,
+      "tags": {
+        "name": "مكه",
+        "name:ar": "مكه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6832688185,
+      "lat": 30.0077225,
+      "lon": 31.3164561,
+      "tags": {
+        "name": "عطارة الشرقاوى",
+        "name:ar": "عطارة الشرقاوى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6899520587,
+      "lat": 30.1179138,
+      "lon": 31.3202777,
+      "tags": {
+        "name": "كازيون",
+        "name:ar": "كازيون",
+        "name:en": "Kazyon",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6918260585,
+      "lat": 29.9942486,
+      "lon": 31.3187478,
+      "tags": {
+        "name": "سفير",
+        "name:ar": "سفير",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6918260685,
+      "lat": 29.9942619,
+      "lon": 31.318527,
+      "tags": {
+        "name": "التوفير",
+        "name:ar": "التوفير",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7167141185,
+      "lat": 29.8231303,
+      "lon": 31.3856204,
+      "tags": {
+        "name": "حلواني السماوي27",
+        "name:ar": "حلواني السماوي27",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7255002820,
+      "lat": 30.1067161,
+      "lon": 31.6289791,
+      "tags": {
+        "brand": "Carrefour",
+        "brand:wikidata": "Q217599",
+        "brand:wikipedia": "fr:Carrefour (enseigne)",
+        "name": "Carrefour",
+        "opening_hours": "Mo-Su,PH 09:00-24:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7628632886,
+      "lat": 30.0350677,
+      "lon": 31.3452913,
+      "tags": {
+        "name": "الندى م",
+        "name:ar": "الندى م",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7628664586,
+      "lat": 30.0366884,
+      "lon": 31.3431117,
+      "tags": {
+        "name": "الأقصى م",
+        "name:ar": "الأقصى م",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7628703285,
+      "lat": 30.0369862,
+      "lon": 31.3430481,
+      "tags": {
+        "name": "كايرو ماركت",
+        "name:ar": "كايرو ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181788,
+      "lat": 30.037001,
+      "lon": 31.3437477,
+      "tags": {
+        "name": "التحرير م",
+        "name:ar": "التحرير م",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181789,
+      "lat": 30.0364818,
+      "lon": 31.3416367,
+      "tags": {
+        "name": "اولاد بخيت",
+        "name:ar": "اولاد بخيت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181790,
+      "lat": 30.0361435,
+      "lon": 31.3416289,
+      "tags": {
+        "name": "مكه",
+        "name:ar": "مكه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181791,
+      "lat": 30.0377569,
+      "lon": 31.339013,
+      "tags": {
+        "name": "مقلة العوام",
+        "name:ar": "مقلة العوام",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181792,
+      "lat": 30.0378912,
+      "lon": 31.3392736,
+      "tags": {
+        "name": "ك المنتصر بالله",
+        "name:ar": "ك المنتصر بالله",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181793,
+      "lat": 30.0377866,
+      "lon": 31.3394295,
+      "tags": {
+        "name": "اولاد حسان",
+        "name:ar": "اولاد حسان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181794,
+      "lat": 30.0378131,
+      "lon": 31.3399575,
+      "tags": {
+        "name": "البان الحصرى",
+        "name:ar": "البان الحصرى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181795,
+      "lat": 30.0379308,
+      "lon": 31.3403697,
+      "tags": {
+        "name": "ارزاق",
+        "name:ar": "ارزاق",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181796,
+      "lat": 30.0380333,
+      "lon": 31.3406044,
+      "tags": {
+        "name": "الباشا",
+        "name:ar": "الباشا",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181797,
+      "lat": 30.0396269,
+      "lon": 31.3317978,
+      "tags": {
+        "name": "ك بغدادى",
+        "name:ar": "ك بغدادى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181893,
+      "lat": 30.037445,
+      "lon": 31.3359544,
+      "tags": {
+        "name": "الاخوه",
+        "name:ar": "الاخوه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181894,
+      "lat": 30.0383027,
+      "lon": 31.3373498,
+      "tags": {
+        "name": "البنا",
+        "name:ar": "البنا",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181895,
+      "lat": 30.0378991,
+      "lon": 31.3334778,
+      "tags": {
+        "name": "اسواق البركه",
+        "name:ar": "اسواق البركه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181896,
+      "lat": 30.0407563,
+      "lon": 31.3309714,
+      "tags": {
+        "name": "ك الحريه",
+        "name:ar": "ك الحريه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181897,
+      "lat": 30.0404561,
+      "lon": 31.3314381,
+      "tags": {
+        "name": "القدس",
+        "name:ar": "القدس",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181898,
+      "lat": 30.0402914,
+      "lon": 31.3337904,
+      "tags": {
+        "name": "مكتبة الاندلس",
+        "name:ar": "مكتبة الاندلس",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181899,
+      "lat": 30.0402057,
+      "lon": 31.3344421,
+      "tags": {
+        "name": "ك جمعية احباء مصر",
+        "name:ar": "ك جمعية احباء مصر",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181986,
+      "lat": 30.0359796,
+      "lon": 31.3393479,
+      "tags": {
+        "name": "عمر",
+        "name:ar": "عمر",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629181987,
+      "lat": 30.0372085,
+      "lon": 31.33407,
+      "tags": {
+        "name": "الوطنيه",
+        "name:ar": "الوطنيه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629182986,
+      "lat": 30.0368585,
+      "lon": 31.3419549,
+      "tags": {
+        "name": "البركه",
+        "name:ar": "البركه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629182987,
+      "lat": 30.0360959,
+      "lon": 31.3406033,
+      "tags": {
+        "name": "العالميه",
+        "name:ar": "العالميه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629182988,
+      "lat": 30.0361429,
+      "lon": 31.3389284,
+      "tags": {
+        "name": "اسواق المدينه",
+        "name:ar": "اسواق المدينه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629182989,
+      "lat": 30.0361502,
+      "lon": 31.3380061,
+      "tags": {
+        "name": "مكه المكرمه",
+        "name:ar": "مكه المكرمه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629182990,
+      "lat": 30.0380754,
+      "lon": 31.3406622,
+      "tags": {
+        "name": "ك السفارات",
+        "name:ar": "ك السفارات",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629182991,
+      "lat": 30.0382445,
+      "lon": 31.336346,
+      "tags": {
+        "name": "دكان",
+        "name:ar": "دكان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629182992,
+      "lat": 30.0401347,
+      "lon": 31.3312645,
+      "tags": {
+        "name": "ك الحاج عبدالله",
+        "name:ar": "ك الحاج عبدالله",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629182993,
+      "lat": 30.0400859,
+      "lon": 31.3311921,
+      "tags": {
+        "name": "كايرو ماركت",
+        "name:ar": "كايرو ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629224685,
+      "lat": 30.0362681,
+      "lon": 31.3423797,
+      "tags": {
+        "name": "اولاد بخيت",
+        "name:ar": "اولاد بخيت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629224686,
+      "lat": 30.0404604,
+      "lon": 31.3311046,
+      "tags": {
+        "name": "هانى ماركت",
+        "name:ar": "هانى ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629224687,
+      "lat": 30.0396796,
+      "lon": 31.3345179,
+      "tags": {
+        "name": "توب ماركت",
+        "name:ar": "توب ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629225185,
+      "lat": 30.0373343,
+      "lon": 31.3355377,
+      "tags": {
+        "name": "كنزى",
+        "name:ar": "كنزى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629225186,
+      "lat": 30.0376032,
+      "lon": 31.3377825,
+      "tags": {
+        "name": "ك نجمة السفارات",
+        "name:ar": "ك نجمة السفارات",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629225187,
+      "lat": 30.0408077,
+      "lon": 31.3305708,
+      "tags": {
+        "name": "كشك ورزقكم في السماء وما توعدون",
+        "name:ar": "كشك ورزقكم في السماء وما توعدون",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629225188,
+      "lat": 30.0388019,
+      "lon": 31.3347114,
+      "tags": {
+        "name": "نور على نور",
+        "name:ar": "نور على نور",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7632073285,
+      "lat": 30.0953852,
+      "lon": 31.2677072,
+      "tags": {
+        "name": "جملة حجاج",
+        "name:ar": "جملة حجاج",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7632073286,
+      "lat": 30.0890917,
+      "lon": 31.266051,
+      "tags": {
+        "name": "اولاد عبدالكىيم للمواد الغذائية",
+        "name:ar": "اولاد عبدالكىيم للمواد الغذائية",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7632073385,
+      "lat": 30.0960806,
+      "lon": 31.2627599,
+      "tags": {
+        "name": "جملة ابو حسين الدرملي",
+        "name:ar": "جملة ابو حسين الدرملي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7632073485,
+      "lat": 30.094509,
+      "lon": 31.2700061,
+      "tags": {
+        "name": "اولاد الغرباوي",
+        "name:ar": "اولاد الغرباوي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7632969185,
+      "lat": 30.1091886,
+      "lon": 31.3008353,
+      "tags": {
+        "name": "الامانه",
+        "name:ar": "الامانه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7632993185,
+      "lat": 30.1029332,
+      "lon": 31.30613,
+      "tags": {
+        "name": "الباشا",
+        "name:ar": "الباشا",
+        "operator": "قبل الساعه ٤",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7635900879,
+      "lat": 29.9812339,
+      "lon": 31.3135634,
+      "tags": {
+        "name": "Small Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7639846205,
+      "lat": 29.9818653,
+      "lon": 31.3121243,
+      "tags": {
+        "name": "Supermarché",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7640012781,
+      "lat": 29.9811444,
+      "lon": 31.3149957,
+      "tags": {
+        "internet_access": "no",
+        "name": "Small market",
+        "payment:cash": "yes",
+        "shop": "supermarket",
+        "stroller": "limited",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7640426785,
+      "lat": 30.0654177,
+      "lon": 31.3760812,
+      "tags": {
+        "name": "الحسيني",
+        "name:ar": "الحسيني",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7640426885,
+      "lat": 30.0692871,
+      "lon": 31.3746423,
+      "tags": {
+        "name": "العامري",
+        "name:ar": "العامري",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7640426985,
+      "lat": 30.0634878,
+      "lon": 31.3769693,
+      "tags": {
+        "name": "الاخلاص",
+        "name:ar": "الاخلاص",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7651883885,
+      "lat": 30.0470022,
+      "lon": 31.4688959,
+      "tags": {
+        "name": "ماركت ابو عاصم",
+        "name:ar": "ماركت ابو عاصم",
+        "shop": "supermarket",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7651883985,
+      "lat": 30.0581189,
+      "lon": 31.4674146,
+      "tags": {
+        "name": "مومن وبسار",
+        "name:ar": "مومن وبسار",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7658272385,
+      "lat": 30.0516446,
+      "lon": 31.2887394,
+      "tags": {
+        "name": "المقولان العرب دخلة الي محلات سوبر ماركت",
+        "name:ar": "المقولان العرب دخلة الي محلات سوبر ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7669127785,
+      "lat": 29.9763069,
+      "lon": 31.3986325,
+      "tags": {
+        "name": "فاميلي ماركت",
+        "name:ar": "فاميلي ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7669127885,
+      "lat": 29.9956774,
+      "lon": 31.4304179,
+      "tags": {
+        "name": "القدس",
+        "name:ar": "القدس",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7706771686,
+      "lat": 29.9818021,
+      "lon": 31.4288875,
+      "tags": {
+        "name": "الحسيني",
+        "name:ar": "الحسيني",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7706778285,
+      "lat": 30.0002857,
+      "lon": 31.4346547,
+      "tags": {
+        "name": "الهدي",
+        "name:ar": "الهدي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7710787487,
+      "lat": 30.1539543,
+      "lon": 31.6205377,
+      "tags": {
+        "name": "عباد الرحمن",
+        "name:ar": "عباد الرحمن",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7720973485,
+      "lat": 29.977118,
+      "lon": 31.4326378,
+      "tags": {
+        "name": "ابو حسن",
+        "name:ar": "ابو حسن",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7720973486,
+      "lat": 29.9770675,
+      "lon": 31.4330179,
+      "tags": {
+        "name": "خير بلدنا",
+        "name:ar": "خير بلدنا",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7721093485,
+      "lat": 29.9758793,
+      "lon": 31.4344696,
+      "tags": {
+        "name": "ابو حسن الاسواني",
+        "name:ar": "ابو حسن الاسواني",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7721255986,
+      "lat": 29.9755295,
+      "lon": 31.4351779,
+      "tags": {
+        "name": "ماركت",
+        "name:ar": "ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7721255987,
+      "lat": 29.9755514,
+      "lon": 31.4324808,
+      "tags": {
+        "name": "التقوي",
+        "name:ar": "التقوي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7721271585,
+      "lat": 29.9991893,
+      "lon": 31.420392,
+      "tags": {
+        "name": "مركاتو",
+        "name:ar": "مركاتو",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7728120187,
+      "lat": 29.9988859,
+      "lon": 31.409471,
+      "tags": {
+        "name": "العائلة",
+        "name:ar": "العائلة",
+        "phone": "01126988986",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7728120188,
+      "lat": 29.999521,
+      "lon": 31.4092731,
+      "tags": {
+        "name": "فاتيما",
+        "name:ar": "فاتيما",
+        "phone": "025424820",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7728120189,
+      "lat": 30.0585718,
+      "lon": 31.2494943,
+      "tags": {
+        "addr:city": "القاهرة",
+        "name": "جملة علاء",
+        "name:ar": "جملة علاء",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7728120287,
+      "lat": 30.0586912,
+      "lon": 31.249216,
+      "tags": {
+        "name": "جملة الحمد",
+        "name:ar": "جملة الحمد",
+        "operator": "محمد",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7728121485,
+      "lat": 30.0062017,
+      "lon": 31.4168674,
+      "tags": {
+        "name": "شيري شوب",
+        "name:ar": "شيري شوب",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7728154786,
+      "lat": 30.1579593,
+      "lon": 31.765892,
+      "tags": {
+        "name": "ماركت",
+        "name:ar": "ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7730827187,
+      "lat": 30.1697767,
+      "lon": 31.6468963,
+      "tags": {
+        "name": "الرحاب ١١",
+        "name:ar": "الرحاب ١١",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7740186685,
+      "lat": 30.0032428,
+      "lon": 31.4423549,
+      "tags": {
+        "name": "شركس",
+        "name:ar": "شركس",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7749947086,
+      "lat": 30.1590627,
+      "lon": 31.7667815,
+      "tags": {
+        "name": "ماركت",
+        "name:ar": "ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7756678585,
+      "lat": 30.168282,
+      "lon": 31.6477234,
+      "tags": {
+        "name": "زيادة",
+        "name:ar": "زيادة",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7756678586,
+      "lat": 30.1679564,
+      "lon": 31.6502673,
+      "tags": {
+        "name": "اسلام وكريم",
+        "name:ar": "اسلام وكريم",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7756754785,
+      "lat": 30.1628797,
+      "lon": 31.651304,
+      "tags": {
+        "name": "رياض الصالحين",
+        "name:ar": "رياض الصالحين",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7756754885,
+      "lat": 30.1750631,
+      "lon": 31.6487339,
+      "tags": {
+        "name": "الريحان",
+        "name:ar": "الريحان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7758215085,
+      "lat": 30.1811063,
+      "lon": 31.6409546,
+      "tags": {
+        "name": "نور",
+        "name:ar": "نور",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7777521287,
+      "lat": 30.0622495,
+      "lon": 31.467447,
+      "tags": {
+        "name": "طلعت",
+        "name:ar": "طلعت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7791072320,
+      "lat": 30.0069886,
+      "lon": 31.3298501,
+      "tags": {
+        "name": "عزوز",
+        "name:ar": "عزوز",
+        "phone": "01111010728",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7803549786,
+      "lat": 30.0775607,
+      "lon": 31.2332903,
+      "tags": {
+        "name": "العسكري",
+        "name:ar": "العسكري",
+        "operator": "حسن",
+        "phone": "01017283850",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7803549787,
+      "lat": 30.1375011,
+      "lon": 31.6581318,
+      "tags": {
+        "name": "مول ٦٣",
+        "name:ar": "مول ٦٣",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7803570485,
+      "lat": 30.151839,
+      "lon": 31.6559059,
+      "tags": {
+        "name": "ماركت الشباب",
+        "name:ar": "ماركت الشباب",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7803570585,
+      "lat": 30.1470366,
+      "lon": 31.6572171,
+      "tags": {
+        "name": "السروجي",
+        "name:ar": "السروجي",
+        "operator": "مصطفي",
+        "phone": "01225162862",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7803570685,
+      "lat": 30.1441116,
+      "lon": 31.66026,
+      "tags": {
+        "name": "الشروق سيتي مول",
+        "name:ar": "الشروق سيتي مول",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7803570785,
+      "lat": 30.1378317,
+      "lon": 31.6605613,
+      "tags": {
+        "name": "فيوتشر مول",
+        "name:ar": "فيوتشر مول",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7809848485,
+      "lat": 30.0126065,
+      "lon": 31.4320329,
+      "tags": {
+        "name": "ستار",
+        "name:ar": "ستار",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7809880185,
+      "lat": 30.012505,
+      "lon": 31.4338305,
+      "tags": {
+        "name": "مول الكوثر",
+        "name:ar": "مول الكوثر",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7810033385,
+      "lat": 29.9935304,
+      "lon": 31.4220261,
+      "tags": {
+        "name": "الرحبايه",
+        "name:ar": "الرحبايه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7810230086,
+      "lat": 30.0186221,
+      "lon": 31.4794868,
+      "tags": {
+        "name": "مكه",
+        "name:ar": "مكه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7810252485,
+      "lat": 30.0130068,
+      "lon": 31.4980296,
+      "tags": {
+        "name": "لاروز",
+        "name:ar": "لاروز",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7810252585,
+      "lat": 30.0200025,
+      "lon": 31.4859378,
+      "tags": {
+        "name": "العدوي",
+        "name:ar": "العدوي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7816943285,
+      "lat": 30.1294352,
+      "lon": 31.7048716,
+      "tags": {
+        "name": "ريم",
+        "name:ar": "ريم",
+        "opening_hours": "Mo-Su 08:00+",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7817022185,
+      "lat": 30.1372328,
+      "lon": 31.7136409,
+      "tags": {
+        "name": "فاميلي ماركت",
+        "name:ar": "فاميلي ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7817118486,
+      "lat": 30.1270665,
+      "lon": 31.7093664,
+      "tags": {
+        "name": "ماركت",
+        "name:ar": "ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7817193286,
+      "lat": 30.1275815,
+      "lon": 31.7077952,
+      "tags": {
+        "name": "اسواق الحمد",
+        "name:ar": "اسواق الحمد",
+        "operator": "ابو يوسف",
+        "phone": "01123111266",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7817197185,
+      "lat": 30.1330025,
+      "lon": 31.7033963,
+      "tags": {
+        "name": "هايبر المدينه المنورة",
+        "name:ar": "هايبر المدينه المنورة",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7817262285,
+      "lat": 30.1336979,
+      "lon": 31.7020965,
+      "tags": {
+        "name": "صالح الاسواني",
+        "name:ar": "صالح الاسواني",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7817262385,
+      "lat": 30.1477474,
+      "lon": 31.6966853,
+      "tags": {
+        "name": "عباد الرحمن",
+        "name:ar": "عباد الرحمن",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7837187185,
+      "lat": 30.1290157,
+      "lon": 31.7198636,
+      "tags": {
+        "name": "الواحه",
+        "name:ar": "الواحه",
+        "operator": "تامر",
+        "phone": "01100229536",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7837187285,
+      "lat": 30.1290467,
+      "lon": 31.7196291,
+      "tags": {
+        "name": "ابو هاني",
+        "name:ar": "ابو هاني",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7837187785,
+      "lat": 30.1298319,
+      "lon": 31.71991,
+      "tags": {
+        "name": "الهدي",
+        "name:ar": "الهدي",
+        "phone": "01006787980",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7846546485,
+      "lat": 30.0550081,
+      "lon": 31.4473933,
+      "tags": {
+        "name": "الصفا",
+        "name:ar": "الصفا",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7846619085,
+      "lat": 30.0544549,
+      "lon": 31.4494479,
+      "tags": {
+        "name": "الباشا",
+        "name:ar": "الباشا",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7849531485,
+      "lat": 30.0631714,
+      "lon": 31.4603493,
+      "tags": {
+        "name": "الباشا",
+        "name:ar": "الباشا",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7849531685,
+      "lat": 30.0639169,
+      "lon": 31.4584287,
+      "tags": {
+        "name": "دخله الي ماركت",
+        "name:ar": "دخله الي ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7849566686,
+      "lat": 29.999492,
+      "lon": 31.477154,
+      "tags": {
+        "name": "امان كلنا واحد",
+        "name:ar": "امان كلنا واحد",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7880834285,
+      "lat": 30.130236,
+      "lon": 31.714161,
+      "tags": {
+        "name": "العدوي",
+        "name:ar": "العدوي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7880921085,
+      "lat": 30.1267532,
+      "lon": 31.7102618,
+      "tags": {
+        "name": "ماركت",
+        "name:ar": "ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7880949185,
+      "lat": 30.1281156,
+      "lon": 31.7064541,
+      "tags": {
+        "name": "ابو علي",
+        "name:ar": "ابو علي",
+        "phone": "01125552668",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7889920385,
+      "lat": 29.9825657,
+      "lon": 31.4300033,
+      "tags": {
+        "name": "الشرقاوي",
+        "name:ar": "الشرقاوي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7905381486,
+      "lat": 30.1309566,
+      "lon": 31.7206994,
+      "tags": {
+        "name": "البركه",
+        "name:ar": "البركه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7905381585,
+      "lat": 30.1323188,
+      "lon": 31.712792,
+      "tags": {
+        "name": "المدينه المنورة",
+        "name:ar": "المدينه المنورة",
+        "operator": "ابو يحيي",
+        "phone": "01121961495",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7905381685,
+      "lat": 30.1694137,
+      "lon": 31.6450474,
+      "tags": {
+        "name": "مول الجوهره",
+        "name:ar": "مول الجوهره",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7934509186,
+      "lat": 29.9854224,
+      "lon": 31.4245176,
+      "tags": {
+        "name": "الطاهر",
+        "name:ar": "الطاهر",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7938247185,
+      "lat": 29.9953396,
+      "lon": 31.4205224,
+      "tags": {
+        "name": "الاصدقاء",
+        "name:ar": "الاصدقاء",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7938250485,
+      "lat": 30.0013664,
+      "lon": 31.4416636,
+      "tags": {
+        "name": "ماركت",
+        "name:ar": "ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7947635363,
+      "lat": 30.1047184,
+      "lon": 31.3198379,
+      "tags": {
+        "name": "GreenHouse Compact",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8269631622,
+      "lat": 29.9750353,
+      "lon": 31.3046005,
+      "tags": {
+        "addr:housenumber": "7132",
+        "name": "سوبر ماركت المدينه",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8313863217,
+      "lat": 29.9807026,
+      "lon": 31.4385187,
+      "tags": {
+        "name": "سنابل",
+        "name:en": "Sanabel",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8365468864,
+      "lat": 30.0033692,
+      "lon": 31.5001537,
+      "tags": {
+        "alt_name": "سمارت ماركت",
+        "name": "سمارت ماركت",
+        "name:ar": "سمارت ماركت",
+        "name:en": "Smart market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8412333127,
+      "lat": 30.0669171,
+      "lon": 31.3807901,
+      "tags": {
+        "name": "الطيب عبدالرحمن فرغل",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8582853317,
+      "lat": 30.1646018,
+      "lon": 31.619374,
+      "tags": {
+        "name": "بريد فاست",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8603681999,
+      "lat": 30.0467097,
+      "lon": 31.3457171,
+      "tags": {
+        "addr:city": "Cairo",
+        "addr:housenumber": "41",
+        "addr:postcode": "11765",
+        "addr:street": "شارع حموده محمود",
+        "name": "ماركت جمعة",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "payment:cash": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8612016769,
+      "lat": 30.0352723,
+      "lon": 31.2337039,
+      "tags": {
+        "name": "النيل الأزرق",
+        "name:en": "Blue Nile",
+        "phone": "+20227920521",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9061228206,
+      "lat": 30.098328,
+      "lon": 31.3815182,
+      "tags": {
+        "contact:facebook": "https://www.facebook.com/negmetheliopolisgamalsalama",
+        "name": "نجمة هليوبولس جمال سلامة",
+        "name:ar": "نجمة هليوبولس جمال سلامة",
+        "name:en": "Negmet Heliopolis Gamal Salama",
+        "phone": "+20 114 910 0040; +20 121 210 9999",
+        "shop": "supermarket",
+        "website": "http://www.negmetheliopolis.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9238962217,
+      "lat": 30.1563538,
+      "lon": 31.7643274,
+      "tags": {
+        "name": "مول منطقة D",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9820187951,
+      "lat": 30.0395735,
+      "lon": 31.3996418,
+      "tags": {
+        "name": "المنى ماركت",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9986731717,
+      "lat": 29.960409,
+      "lon": 31.2787487,
+      "tags": {
+        "name:es": "RDNA ORGANIC STORE",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9986731722,
+      "lat": 30.0298426,
+      "lon": 31.4096562,
+      "tags": {
+        "name:es": "ACCESO CAIRO FESTIVAL CITY",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10037661404,
+      "lat": 30.0828778,
+      "lon": 31.6590497,
+      "tags": {
+        "addr:city": "مدينتي",
+        "name": "بني",
+        "name:ar": "بني",
+        "name:de": "Penny",
+        "name:es": "Penny",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10280506114,
+      "lat": 30.0696671,
+      "lon": 31.3423389,
+      "tags": {
+        "name": "سوباركت بنده",
+        "name:arz": "بنده ماركت",
+        "name:en": "Benda super market",
+        "operator": "بنده",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10285771649,
+      "lat": 30.0733203,
+      "lon": 31.3442373,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "City Stars",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981641406,
+      "lat": 30.0926182,
+      "lon": 31.2452107,
+      "tags": {
+        "name": "خير زمان شبرا مصر",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981641407,
+      "lat": 30.0722689,
+      "lon": 31.2475815,
+      "tags": {
+        "name": "خير زمان شبرا مصر 2",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981641408,
+      "lat": 30.1296955,
+      "lon": 31.3766611,
+      "tags": {
+        "name": "العثيم قباء",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981641505,
+      "lat": 29.8978987,
+      "lon": 31.3027389,
+      "tags": {
+        "name": "خير زمان حدائق حلوان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981641506,
+      "lat": 29.8469326,
+      "lon": 31.3314584,
+      "tags": {
+        "name": "خير زمان حلوان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981641507,
+      "lat": 29.8276727,
+      "lon": 31.3699694,
+      "tags": {
+        "name": "العثيم مايو",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981641605,
+      "lat": 29.8438756,
+      "lon": 31.3393071,
+      "tags": {
+        "name": "العثيم",
+        "name:ar": "العثيم حلوان 1",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981641606,
+      "lat": 29.8454597,
+      "lon": 31.3427944,
+      "tags": {
+        "name": "خير زمان عبد الرحمن",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981641905,
+      "lat": 30.0624514,
+      "lon": 31.3567381,
+      "tags": {
+        "name": "العثيم مدينه نصر",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981641906,
+      "lat": 30.1376021,
+      "lon": 31.3877187,
+      "tags": {
+        "name": "العثيم 2 قباء",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981641907,
+      "lat": 29.8406328,
+      "lon": 31.3269979,
+      "tags": {
+        "name": "العثيم  الكبرتاج",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981641909,
+      "lat": 29.9698115,
+      "lon": 31.2479633,
+      "tags": {
+        "name": "خير زمان المعادى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981641912,
+      "lat": 30.0358329,
+      "lon": 31.239397,
+      "tags": {
+        "name": "خير زمان بوبار",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11015630006,
+      "lat": 30.0749774,
+      "lon": 31.3357493,
+      "tags": {
+        "addr:street": "امتداد شارع عباس العقاد",
+        "name": "جنة ماركت",
+        "name:en": "Jana markit",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11050222491,
+      "lat": 29.9917648,
+      "lon": 31.314722,
+      "tags": {
+        "name": "جملتى ماركت",
+        "name:ar": "جملتى ماركت",
+        "name:en": "Gomlaty Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11073477238,
+      "lat": 30.0591424,
+      "lon": 31.327485,
+      "tags": {
+        "brand": "Seoudi",
+        "name": "Seoudi",
+        "name:ar": "سعودي",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11228293263,
+      "lat": 30.0593428,
+      "lon": 31.3914932,
+      "tags": {
+        "name": "Kayan Market",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11335566077,
+      "lat": 30.0796382,
+      "lon": 31.3269944,
+      "tags": {
+        "name": "هايبر مصر",
+        "name:ar": "هايبر مصر",
+        "name:en": "Hyper Misr",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11335570383,
+      "lat": 30.0822198,
+      "lon": 31.3215785,
+      "tags": {
+        "addr:street": "شارع الشهيد عبد الوهاب القاضي",
+        "name": "كارفور",
+        "name:ar": "كارفور",
+        "name:en": "Carrefour",
+        "operator": "Carrefour",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11339660169,
+      "lat": 30.0544265,
+      "lon": 31.4913809,
+      "tags": {
+        "addr:street": "شارع ابو خليفه النعمان",
+        "name": "فتح الله ماركت",
+        "opening_hours": "24/7",
+        "operator": "فتح الله جمله",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11395650269,
+      "lat": 29.8191185,
+      "lon": 31.3613386,
+      "tags": {
+        "name": "بمايو الصحابه وسوق مجاوره 12",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11409878270,
+      "lat": 29.8597542,
+      "lon": 31.4202848,
+      "tags": {
+        "name": "فول نعمه بال290 فدان",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11443515933,
+      "lat": 30.0463221,
+      "lon": 31.2541531,
+      "tags": {
+        "name": "Supeco",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11622740395,
+      "lat": 30.0851916,
+      "lon": 31.3453401,
+      "tags": {
+        "addr:city": "Cairo",
+        "addr:housenumber": "41",
+        "addr:postcode": "11774",
+        "addr:street": "شارع الشهيد عبد المنعم حافظ",
+        "currency:EGP": "yes",
+        "name": "Zamzam Supermarket",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "operator": "El Masry Family",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "phone": "+20 2 22903039",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11684657669,
+      "lat": 30.0863662,
+      "lon": 31.2336382,
+      "tags": {
+        "name": "العطار رز",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11736841669,
+      "lat": 30.0453831,
+      "lon": 31.3992367,
+      "tags": {
+        "addr:housenumber": "1215",
+        "email": "aswaqalkhair71@gmail.com",
+        "name": "أسواق الخير",
+        "name:en": "Aswaq Elkhair",
+        "phone": "01020923187",
+        "shop": "supermarket",
+        "website": "http://aswaqalkhair71@gmail.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11832855914,
+      "lat": 30.1040466,
+      "lon": 31.6002021,
+      "tags": {
+        "addr:city": "Cairo",
+        "addr:postcode": "19519",
+        "addr:street": "طريق القاهرة, السويس",
+        "name": "Mahmoud El-far",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12058877791,
+      "lat": 30.0877175,
+      "lon": 31.6476733,
+      "tags": {
+        "name": "New Penny",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31820646,
+      "bounds": {
+        "minlat": 30.0665109,
+        "minlon": 31.3327397,
+        "maxlat": 30.0667644,
+        "maxlon": 31.3329383
+      },
+      "nodes": [
+        8022166386,
+        356270013,
+        356270000,
+        356269999,
+        8022166386
+      ],
+      "geometry": [
+        {
+          "lat": 30.0665109,
+          "lon": 31.3327542
+        },
+        {
+          "lat": 30.0665312,
+          "lon": 31.3329383
+        },
+        {
+          "lat": 30.0667644,
+          "lon": 31.3329162
+        },
+        {
+          "lat": 30.0667444,
+          "lon": 31.3327397
+        },
+        {
+          "lat": 30.0665109,
+          "lon": 31.3327542
+        }
+      ],
+      "tags": {
+        "addr:country": "EG",
+        "addr:district": "اول مدينة نصر",
+        "addr:district:en": "First Nasr City",
+        "addr:housenumber": "14",
+        "addr:postcode": "11765",
+        "addr:province": "القاهرة",
+        "addr:province:en": "Cairo",
+        "addr:street": "شارع الدكتور انور المفتي",
+        "addr:street:en": "Al Doctor Anwar Al Mofty Street",
+        "addr:subdistrict": "منطقة 1",
+        "addr:subdistrict:en": "Area 1",
+        "building": "apartments",
+        "name": "البيت السورى",
+        "name:ar": "البيت السورى",
+        "name:en": "Syrian house",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31820661,
+      "bounds": {
+        "minlat": 30.0665471,
+        "minlon": 31.3334986,
+        "maxlat": 30.066799,
+        "maxlon": 31.3337215
+      },
+      "nodes": [
+        452399025,
+        356270093,
+        356270094,
+        356270096,
+        452399025
+      ],
+      "geometry": [
+        {
+          "lat": 30.0667822,
+          "lon": 31.3334986
+        },
+        {
+          "lat": 30.066799,
+          "lon": 31.3336947
+        },
+        {
+          "lat": 30.0665639,
+          "lon": 31.3337215
+        },
+        {
+          "lat": 30.0665471,
+          "lon": 31.3335254
+        },
+        {
+          "lat": 30.0667822,
+          "lon": 31.3334986
+        }
+      ],
+      "tags": {
+        "addr:country": "EG",
+        "addr:district": "اول مدينة نصر",
+        "addr:district:en": "First Nasr City",
+        "addr:housenumber": "20R",
+        "addr:postcode": "11765",
+        "addr:province": "القاهرة",
+        "addr:province:en": "Cairo",
+        "addr:street": "شارع الدكتور انور المفتي",
+        "addr:street:en": "Al Doctor Anwar Al Mofty Street",
+        "addr:subdistrict": "منطقة 1",
+        "addr:subdistrict:en": "Area 1",
+        "alt_name": "نوري خطاب",
+        "building": "apartments",
+        "name": "نور",
+        "name:ar": "نور",
+        "name:en": "Nour",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 93178284,
+      "bounds": {
+        "minlat": 30.1189597,
+        "minlon": 31.39643,
+        "maxlat": 30.1197299,
+        "maxlon": 31.3975672
+      },
+      "nodes": [
+        1080164433,
+        1080164434,
+        1080164435,
+        1080164436,
+        1080164433
+      ],
+      "geometry": [
+        {
+          "lat": 30.1197299,
+          "lon": 31.3966445
+        },
+        {
+          "lat": 30.1192566,
+          "lon": 31.39643
+        },
+        {
+          "lat": 30.1189597,
+          "lon": 31.3973634
+        },
+        {
+          "lat": 30.1194422,
+          "lon": 31.3975672
+        },
+        {
+          "lat": 30.1197299,
+          "lon": 31.3966445
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "construction": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 210589169,
+      "bounds": {
+        "minlat": 29.9518193,
+        "minlon": 31.2647143,
+        "maxlat": 29.952058,
+        "maxlon": 31.2649919
+      },
+      "nodes": [
+        6665875819,
+        2206680087,
+        2206680084,
+        2206680086,
+        6665875819
+      ],
+      "geometry": [
+        {
+          "lat": 29.952058,
+          "lon": 31.2648353
+        },
+        {
+          "lat": 29.9519416,
+          "lon": 31.2649919
+        },
+        {
+          "lat": 29.9518193,
+          "lon": 31.2648709
+        },
+        {
+          "lat": 29.9519357,
+          "lon": 31.2647143
+        },
+        {
+          "lat": 29.952058,
+          "lon": 31.2648353
+        }
+      ],
+      "tags": {
+        "addr:country": "EG",
+        "addr:district": "المعادى",
+        "addr:district:en": "El Maadi",
+        "addr:housenumber": "28",
+        "addr:postcode": "11728",
+        "addr:province": "القاهرة",
+        "addr:province:en": "Cairo",
+        "addr:street": "شارع 9",
+        "addr:street:en": "Street 9",
+        "addr:subdistrict": "السرايات الغربيه",
+        "addr:subdistrict:en": "West Al Sarayat",
+        "building": "yes",
+        "name": "Sultan Market",
+        "name:en": "Sultan Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 252128113,
+      "bounds": {
+        "minlat": 30.0192344,
+        "minlon": 31.4240551,
+        "maxlat": 30.0195572,
+        "maxlon": 31.4242878
+      },
+      "nodes": [
+        2582461465,
+        2582332778,
+        2582332780,
+        2582332782,
+        2582332784,
+        2582332805,
+        2582332807,
+        2582332809,
+        2582332811,
+        2582332813,
+        2582332815,
+        2582332818,
+        2582332820,
+        2582332822,
+        2582332824,
+        2582332826,
+        2582332828,
+        2582332830,
+        2582332832,
+        2582332834,
+        2582332835,
+        2582332837,
+        2582332839,
+        2582461465
+      ],
+      "geometry": [
+        {
+          "lat": 30.0192344,
+          "lon": 31.4240705
+        },
+        {
+          "lat": 30.0192664,
+          "lon": 31.4240659
+        },
+        {
+          "lat": 30.0193064,
+          "lon": 31.4240628
+        },
+        {
+          "lat": 30.0193451,
+          "lon": 31.4240582
+        },
+        {
+          "lat": 30.0193905,
+          "lon": 31.4240551
+        },
+        {
+          "lat": 30.0194225,
+          "lon": 31.4240567
+        },
+        {
+          "lat": 30.0194611,
+          "lon": 31.4240598
+        },
+        {
+          "lat": 30.0195038,
+          "lon": 31.424069
+        },
+        {
+          "lat": 30.0195438,
+          "lon": 31.4240829
+        },
+        {
+          "lat": 30.0195398,
+          "lon": 31.4241337
+        },
+        {
+          "lat": 30.0195559,
+          "lon": 31.4241676
+        },
+        {
+          "lat": 30.0195572,
+          "lon": 31.4241938
+        },
+        {
+          "lat": 30.0195452,
+          "lon": 31.4242261
+        },
+        {
+          "lat": 30.0195398,
+          "lon": 31.4242847
+        },
+        {
+          "lat": 30.0192477,
+          "lon": 31.4242878
+        },
+        {
+          "lat": 30.0192424,
+          "lon": 31.4242662
+        },
+        {
+          "lat": 30.0192437,
+          "lon": 31.4242385
+        },
+        {
+          "lat": 30.0192517,
+          "lon": 31.4242292
+        },
+        {
+          "lat": 30.0192344,
+          "lon": 31.4241999
+        },
+        {
+          "lat": 30.0192344,
+          "lon": 31.4241738
+        },
+        {
+          "lat": 30.0192384,
+          "lon": 31.4241506
+        },
+        {
+          "lat": 30.0192504,
+          "lon": 31.4241337
+        },
+        {
+          "lat": 30.0192597,
+          "lon": 31.4241214
+        },
+        {
+          "lat": 30.0192344,
+          "lon": 31.4240705
+        }
+      ],
+      "tags": {
+        "addr:city": "القاهرة الجديدة",
+        "addr:city:en": "New Cairo",
+        "addr:country": "EG",
+        "addr:district": "القطاع الأول",
+        "addr:district:en": "First Sector",
+        "addr:housenumber": "123",
+        "addr:postcode": "11865",
+        "addr:province": "القاهرة",
+        "addr:province:en": "Cairo",
+        "addr:street": "شارع 90",
+        "addr:street:en": "Street 90",
+        "building": "commercial",
+        "name": "أبا الدهب مول",
+        "name:ar": "أبا الدهب مول",
+        "name:en": "Aba Al Dahab Mall",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 252128114,
+      "bounds": {
+        "minlat": 30.0192201,
+        "minlon": 31.4243404,
+        "maxlat": 30.0196043,
+        "maxlon": 31.4246008
+      },
+      "nodes": [
+        2582461464,
+        2582332841,
+        2582332842,
+        2582332843,
+        2582332844,
+        2582332845,
+        2582332846,
+        2582332847,
+        2582332848,
+        2582332849,
+        2582332850,
+        2582332851,
+        2582332852,
+        2582332853,
+        2582332854,
+        2582332855,
+        2582332856,
+        2582461464
+      ],
+      "geometry": [
+        {
+          "lat": 30.0196043,
+          "lon": 31.4243404
+        },
+        {
+          "lat": 30.0192321,
+          "lon": 31.4243481
+        },
+        {
+          "lat": 30.0192295,
+          "lon": 31.4243728
+        },
+        {
+          "lat": 30.0192615,
+          "lon": 31.4243728
+        },
+        {
+          "lat": 30.0192441,
+          "lon": 31.4244159
+        },
+        {
+          "lat": 30.0192455,
+          "lon": 31.4244606
+        },
+        {
+          "lat": 30.0192495,
+          "lon": 31.4245114
+        },
+        {
+          "lat": 30.0192561,
+          "lon": 31.4245315
+        },
+        {
+          "lat": 30.0192215,
+          "lon": 31.4245653
+        },
+        {
+          "lat": 30.0192201,
+          "lon": 31.4245992
+        },
+        {
+          "lat": 30.0195069,
+          "lon": 31.4246008
+        },
+        {
+          "lat": 30.0195189,
+          "lon": 31.4245546
+        },
+        {
+          "lat": 30.0195242,
+          "lon": 31.4245083
+        },
+        {
+          "lat": 30.0195242,
+          "lon": 31.4244668
+        },
+        {
+          "lat": 30.0195109,
+          "lon": 31.4244175
+        },
+        {
+          "lat": 30.0195536,
+          "lon": 31.4243759
+        },
+        {
+          "lat": 30.0196043,
+          "lon": 31.4243759
+        },
+        {
+          "lat": 30.0196043,
+          "lon": 31.4243404
+        }
+      ],
+      "tags": {
+        "addr:city": "القاهرة الجديدة",
+        "addr:city:en": "New Cairo",
+        "addr:country": "EG",
+        "addr:district": "القطاع الأول",
+        "addr:district:en": "First Sector",
+        "addr:housenumber": "125",
+        "addr:postcode": "11865",
+        "addr:province": "القاهرة",
+        "addr:province:en": "Cairo",
+        "addr:street": "شارع 90",
+        "addr:street:en": "Street 90",
+        "building": "commercial",
+        "name": "بى . تك",
+        "name:ar": "بى . تك",
+        "name:en": "B. Tech",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 583450737,
+      "bounds": {
+        "minlat": 30.2413527,
+        "minlon": 31.7254392,
+        "maxlat": 30.2428348,
+        "maxlon": 31.7272443
+      },
+      "nodes": [
+        5578025355,
+        5578025356,
+        5578025357,
+        5578025358,
+        5578025355
+      ],
+      "geometry": [
+        {
+          "lat": 30.2428348,
+          "lon": 31.7264556
+        },
+        {
+          "lat": 30.2420692,
+          "lon": 31.7254392
+        },
+        {
+          "lat": 30.2413527,
+          "lon": 31.7262523
+        },
+        {
+          "lat": 30.2421254,
+          "lon": 31.7272443
+        },
+        {
+          "lat": 30.2428348,
+          "lon": 31.7264556
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "hayper one",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 712543560,
+      "bounds": {
+        "minlat": 30.0833143,
+        "minlon": 31.6377456,
+        "maxlat": 30.0840461,
+        "maxlon": 31.6385408
+      },
+      "nodes": [
+        6699371906,
+        8018342408,
+        6795138751,
+        6795138752,
+        6795138753,
+        6795138754,
+        6795138755,
+        6699371907,
+        6795138728,
+        6795138733,
+        6699371908,
+        6699371909,
+        6795138749,
+        6795138750,
+        6699371906
+      ],
+      "geometry": [
+        {
+          "lat": 30.0840461,
+          "lon": 31.6382288
+        },
+        {
+          "lat": 30.083937,
+          "lon": 31.6383516
+        },
+        {
+          "lat": 30.0838604,
+          "lon": 31.6384378
+        },
+        {
+          "lat": 30.0838626,
+          "lon": 31.6385379
+        },
+        {
+          "lat": 30.0837625,
+          "lon": 31.6385408
+        },
+        {
+          "lat": 30.0837605,
+          "lon": 31.6384517
+        },
+        {
+          "lat": 30.0837325,
+          "lon": 31.6384185
+        },
+        {
+          "lat": 30.083711,
+          "lon": 31.6384427
+        },
+        {
+          "lat": 30.0836763,
+          "lon": 31.6384017
+        },
+        {
+          "lat": 30.0833302,
+          "lon": 31.6379925
+        },
+        {
+          "lat": 30.0833143,
+          "lon": 31.6379829
+        },
+        {
+          "lat": 30.0835251,
+          "lon": 31.6377456
+        },
+        {
+          "lat": 30.083854,
+          "lon": 31.6381358
+        },
+        {
+          "lat": 30.0839124,
+          "lon": 31.6380701
+        },
+        {
+          "lat": 30.0840461,
+          "lon": 31.6382288
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "OSCAR",
+        "name:ar": "اوسكار",
+        "name:de": "OSCAR",
+        "name:en": "OSCAR",
+        "name:es": "OSCAR",
+        "opening_hours": "08:00-22:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "19661",
+        "shop": "supermarket",
+        "website": "https://www.oscarstores.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1006213002,
+      "bounds": {
+        "minlat": 29.986975,
+        "minlon": 31.4418484,
+        "maxlat": 29.9871777,
+        "maxlon": 31.4423246
+      },
+      "nodes": [
+        11361345828,
+        11361345827,
+        11361345824,
+        11361345823,
+        11361345826,
+        11361345822,
+        11361345821,
+        11361345825,
+        9283628385,
+        9283628386,
+        9283628383,
+        11361345834,
+        11361345833,
+        11361345836,
+        11361345832,
+        11361345831,
+        11361345835,
+        11361345830,
+        11361345829,
+        11361345828
+      ],
+      "geometry": [
+        {
+          "lat": 29.9869759,
+          "lon": 31.4422787
+        },
+        {
+          "lat": 29.9870073,
+          "lon": 31.4422774
+        },
+        {
+          "lat": 29.9870385,
+          "lon": 31.4422689
+        },
+        {
+          "lat": 29.9870674,
+          "lon": 31.4422524
+        },
+        {
+          "lat": 29.9870922,
+          "lon": 31.4422289
+        },
+        {
+          "lat": 29.9871118,
+          "lon": 31.4421995
+        },
+        {
+          "lat": 29.9871252,
+          "lon": 31.4421657
+        },
+        {
+          "lat": 29.9871338,
+          "lon": 31.4421294
+        },
+        {
+          "lat": 29.9871335,
+          "lon": 31.4418484
+        },
+        {
+          "lat": 29.9871777,
+          "lon": 31.4418486
+        },
+        {
+          "lat": 29.9871767,
+          "lon": 31.4421319
+        },
+        {
+          "lat": 29.9871684,
+          "lon": 31.4421766
+        },
+        {
+          "lat": 29.9871519,
+          "lon": 31.4422174
+        },
+        {
+          "lat": 29.9871286,
+          "lon": 31.4422535
+        },
+        {
+          "lat": 29.9871035,
+          "lon": 31.44228
+        },
+        {
+          "lat": 29.9870748,
+          "lon": 31.442301
+        },
+        {
+          "lat": 29.9870433,
+          "lon": 31.4423159
+        },
+        {
+          "lat": 29.9870043,
+          "lon": 31.4423233
+        },
+        {
+          "lat": 29.986975,
+          "lon": 31.4423246
+        },
+        {
+          "lat": 29.9869759,
+          "lon": 31.4422787
+        }
+      ],
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1123284102,
+      "bounds": {
+        "minlat": 30.0033689,
+        "minlon": 31.3176198,
+        "maxlat": 30.0035941,
+        "maxlon": 31.3178931
+      },
+      "nodes": [
+        10272803590,
+        8339428451,
+        6832658586,
+        10272803589,
+        10272803590
+      ],
+      "geometry": [
+        {
+          "lat": 30.0035576,
+          "lon": 31.3176198
+        },
+        {
+          "lat": 30.0033689,
+          "lon": 31.3176591
+        },
+        {
+          "lat": 30.0034054,
+          "lon": 31.3178931
+        },
+        {
+          "lat": 30.0035941,
+          "lon": 31.3178538
+        },
+        {
+          "lat": 30.0035576,
+          "lon": 31.3176198
+        }
+      ],
+      "tags": {
+        "addr:country": "EG",
+        "addr:district": "المقطم",
+        "addr:district:en": "El Mukkatam",
+        "addr:housenumber": "8591",
+        "addr:place": "الاحياء",
+        "addr:place:en": "El Ahya'",
+        "addr:postcode": "11571",
+        "addr:province": "القاهرة",
+        "addr:province:en": "Cairo",
+        "building": "yes",
+        "name": "الصخره",
+        "name:ar": "الصخره",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1123284103,
+      "bounds": {
+        "minlat": 30.0039329,
+        "minlon": 31.3174091,
+        "maxlat": 30.0042311,
+        "maxlon": 31.3177395
+      },
+      "nodes": [
+        8339428448,
+        6832644688,
+        10272803598,
+        10272803597,
+        10272803596,
+        10272803595,
+        10272803594,
+        10272803593,
+        10272803592,
+        10272803591,
+        8339428448
+      ],
+      "geometry": [
+        {
+          "lat": 30.0042311,
+          "lon": 31.3175392
+        },
+        {
+          "lat": 30.004033,
+          "lon": 31.3177395
+        },
+        {
+          "lat": 30.0039329,
+          "lon": 31.3174938
+        },
+        {
+          "lat": 30.0039723,
+          "lon": 31.3174645
+        },
+        {
+          "lat": 30.003967,
+          "lon": 31.3174499
+        },
+        {
+          "lat": 30.0040083,
+          "lon": 31.317416
+        },
+        {
+          "lat": 30.0040283,
+          "lon": 31.3174091
+        },
+        {
+          "lat": 30.004061,
+          "lon": 31.3174091
+        },
+        {
+          "lat": 30.0040803,
+          "lon": 31.3174183
+        },
+        {
+          "lat": 30.0040983,
+          "lon": 31.317436
+        },
+        {
+          "lat": 30.0042311,
+          "lon": 31.3175392
+        }
+      ],
+      "tags": {
+        "addr:country": "EG",
+        "addr:district": "المقطم",
+        "addr:district:en": "El Mukkatam",
+        "addr:housenumber": "8588",
+        "addr:place": "الاحياء",
+        "addr:place:en": "El Ahya'",
+        "addr:postcode": "11571",
+        "addr:province": "القاهرة",
+        "addr:province:en": "Cairo",
+        "building": "yes",
+        "name": "احباب المصطفى",
+        "name:ar": "احباب المصطفى",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1124111887,
+      "bounds": {
+        "minlat": 30.0635762,
+        "minlon": 31.4490668,
+        "maxlat": 30.0637702,
+        "maxlon": 31.4492072
+      },
+      "nodes": [
+        6834486086,
+        10279892515,
+        10279892514,
+        10279892513,
+        10279892512,
+        10279892511,
+        10279892510,
+        10279892509,
+        10279877108,
+        10279877107,
+        10279877106,
+        6834486086
+      ],
+      "geometry": [
+        {
+          "lat": 30.0637702,
+          "lon": 31.4490668
+        },
+        {
+          "lat": 30.0635915,
+          "lon": 31.4490829
+        },
+        {
+          "lat": 30.0635762,
+          "lon": 31.4491715
+        },
+        {
+          "lat": 30.0636765,
+          "lon": 31.4492072
+        },
+        {
+          "lat": 30.0636905,
+          "lon": 31.4492056
+        },
+        {
+          "lat": 30.0637091,
+          "lon": 31.4491979
+        },
+        {
+          "lat": 30.0637235,
+          "lon": 31.4491902
+        },
+        {
+          "lat": 30.0637341,
+          "lon": 31.4491795
+        },
+        {
+          "lat": 30.0637445,
+          "lon": 31.4491621
+        },
+        {
+          "lat": 30.0637551,
+          "lon": 31.4491286
+        },
+        {
+          "lat": 30.0637631,
+          "lon": 31.4491032
+        },
+        {
+          "lat": 30.0637702,
+          "lon": 31.4490668
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "اولاد رجب",
+        "name:ar": "اولاد رجب",
+        "name:en": "Ragab Sons",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1241606966,
+      "bounds": {
+        "minlat": 29.8974976,
+        "minlon": 31.6827606,
+        "maxlat": 29.8983988,
+        "maxlon": 31.683426
+      },
+      "nodes": [
+        11536526373,
+        11536526365,
+        11536526387,
+        11536526382,
+        11536526381,
+        11536526380,
+        11536526384,
+        11536526388,
+        11536526212,
+        11536526389,
+        11536526385,
+        11536526379,
+        11536526378,
+        11536526383,
+        11536526386,
+        11536526366,
+        11536526372,
+        11536526375,
+        11536526369,
+        11536526374,
+        11536526371,
+        11536526367,
+        11536526370,
+        11536526377,
+        11536526368,
+        11536526376,
+        11536526373
+      ],
+      "geometry": [
+        {
+          "lat": 29.8983533,
+          "lon": 31.6832622
+        },
+        {
+          "lat": 29.8983531,
+          "lon": 31.6832989
+        },
+        {
+          "lat": 29.8983525,
+          "lon": 31.6834086
+        },
+        {
+          "lat": 29.8980887,
+          "lon": 31.6834067
+        },
+        {
+          "lat": 29.8980886,
+          "lon": 31.683426
+        },
+        {
+          "lat": 29.8976605,
+          "lon": 31.6834229
+        },
+        {
+          "lat": 29.8976606,
+          "lon": 31.6834047
+        },
+        {
+          "lat": 29.8974976,
+          "lon": 31.6834036
+        },
+        {
+          "lat": 29.8975008,
+          "lon": 31.6828148
+        },
+        {
+          "lat": 29.897501,
+          "lon": 31.6827832
+        },
+        {
+          "lat": 29.8976654,
+          "lon": 31.6827844
+        },
+        {
+          "lat": 29.8976656,
+          "lon": 31.6827606
+        },
+        {
+          "lat": 29.8980936,
+          "lon": 31.6827637
+        },
+        {
+          "lat": 29.8980935,
+          "lon": 31.6827864
+        },
+        {
+          "lat": 29.8983553,
+          "lon": 31.6827882
+        },
+        {
+          "lat": 29.8983547,
+          "lon": 31.6828899
+        },
+        {
+          "lat": 29.8983545,
+          "lon": 31.6829339
+        },
+        {
+          "lat": 29.8983988,
+          "lon": 31.6829342
+        },
+        {
+          "lat": 29.8983986,
+          "lon": 31.6829744
+        },
+        {
+          "lat": 29.8983983,
+          "lon": 31.6830252
+        },
+        {
+          "lat": 29.8983036,
+          "lon": 31.6830245
+        },
+        {
+          "lat": 29.8983033,
+          "lon": 31.6830897
+        },
+        {
+          "lat": 29.8983028,
+          "lon": 31.6831704
+        },
+        {
+          "lat": 29.8983982,
+          "lon": 31.6831711
+        },
+        {
+          "lat": 29.898398,
+          "lon": 31.6832131
+        },
+        {
+          "lat": 29.8983977,
+          "lon": 31.6832625
+        },
+        {
+          "lat": 29.8983533,
+          "lon": 31.6832622
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "هايبر ماركت",
+        "name:ar": "هايبر ماركت",
+        "name:en": "Hypermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1300979797,
+      "bounds": {
+        "minlat": 30.0172185,
+        "minlon": 31.533597,
+        "maxlat": 30.0178684,
+        "maxlon": 31.5341841
+      },
+      "nodes": [
+        12050008676,
+        12050008677,
+        12050008678,
+        12050008679,
+        12050008676
+      ],
+      "geometry": [
+        {
+          "lat": 30.0173251,
+          "lon": 31.533597
+        },
+        {
+          "lat": 30.0172185,
+          "lon": 31.5339854
+        },
+        {
+          "lat": 30.0177619,
+          "lon": 31.5341841
+        },
+        {
+          "lat": 30.0178684,
+          "lon": 31.5337959
+        },
+        {
+          "lat": 30.0173251,
+          "lon": 31.533597
+        }
+      ],
+      "tags": {
+        "branch": "Mivida",
+        "brand": "Carrefour",
+        "brand:wikidata": "Q217599",
+        "building": "yes",
+        "name": "Carrefour",
+        "operator": "Carrefour",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 10659970,
+      "bounds": {
+        "minlat": 30.0464401,
+        "minlon": 31.2400408,
+        "maxlat": 30.0468534,
+        "maxlon": 31.2404875
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": "_fullGeom98252456",
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 30.0464401,
+              "lon": 31.2403237
+            },
+            {
+              "lat": 30.0465572,
+              "lon": 31.2400408
+            },
+            {
+              "lat": 30.0466514,
+              "lon": 31.2400929
+            },
+            {
+              "lat": 30.0466454,
+              "lon": 31.2401074
+            },
+            {
+              "lat": 30.0467492,
+              "lon": 31.2401649
+            },
+            {
+              "lat": 30.0467551,
+              "lon": 31.2401507
+            },
+            {
+              "lat": 30.0468534,
+              "lon": 31.2402051
+            },
+            {
+              "lat": 30.0467364,
+              "lon": 31.2404875
+            },
+            {
+              "lat": 30.0464401,
+              "lon": 31.2403237
+            }
+          ]
+        },
+        {
+          "type": "way",
+          "ref": "_fullGeom768638879",
+          "role": "inner",
+          "geometry": [
+            {
+              "lat": 30.0466835,
+              "lon": 31.2402651
+            },
+            {
+              "lat": 30.0467092,
+              "lon": 31.2402784
+            },
+            {
+              "lat": 30.0467324,
+              "lon": 31.2402183
+            },
+            {
+              "lat": 30.0466202,
+              "lon": 31.2401605
+            },
+            {
+              "lat": 30.0465986,
+              "lon": 31.2402165
+            },
+            {
+              "lat": 30.0466259,
+              "lon": 31.2402305
+            },
+            {
+              "lat": 30.0466439,
+              "lon": 31.2401839
+            },
+            {
+              "lat": 30.0467031,
+              "lon": 31.2402143
+            },
+            {
+              "lat": 30.0466835,
+              "lon": 31.2402651
+            }
+          ]
+        },
+        {
+          "type": "way",
+          "ref": "_fullGeom768638880",
+          "role": "inner",
+          "geometry": [
+            {
+              "lat": 30.0466396,
+              "lon": 31.2403411
+            },
+            {
+              "lat": 30.0466804,
+              "lon": 31.2403633
+            },
+            {
+              "lat": 30.0466932,
+              "lon": 31.240332
+            },
+            {
+              "lat": 30.0466524,
+              "lon": 31.2403098
+            },
+            {
+              "lat": 30.0466396,
+              "lon": 31.2403411
+            }
+          ]
+        },
+        {
+          "type": "way",
+          "ref": "_fullGeom768638881",
+          "role": "inner",
+          "geometry": [
+            {
+              "lat": 30.0465669,
+              "lon": 31.2402935
+            },
+            {
+              "lat": 30.0466076,
+              "lon": 31.2403157
+            },
+            {
+              "lat": 30.0466204,
+              "lon": 31.2402844
+            },
+            {
+              "lat": 30.0465796,
+              "lon": 31.2402623
+            },
+            {
+              "lat": 30.0465669,
+              "lon": 31.2402935
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "addr:city": "القاهرة",
+        "addr:city:en": "Cairo",
+        "addr:country": "EG",
+        "addr:district": "عابدين",
+        "addr:district:en": "Aabdin",
+        "addr:housenumber": "32",
+        "addr:postcode": "11513",
+        "addr:province": "القاهرة",
+        "addr:province:en": "Cairo",
+        "addr:street": "شارع الفلكي",
+        "addr:street:en": "Al Falaky Street",
+        "addr:subdistrict": "باب اللوق",
+        "addr:subdistrict:en": "Bab El Louk",
+        "building": "yes",
+        "name": "Misria",
+        "name:fr": "Misria",
+        "roof:shape": "flat",
+        "shop": "supermarket",
+        "source": "Bing",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 11265740,
+      "bounds": {
+        "minlat": 30.0356238,
+        "minlon": 31.2334194,
+        "maxlat": 30.0362633,
+        "maxlon": 31.2339602
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": "_fullGeom822304419",
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 30.0357058,
+              "lon": 31.2334194
+            },
+            {
+              "lat": 30.0356238,
+              "lon": 31.2337998
+            },
+            {
+              "lat": 30.0361813,
+              "lon": 31.2339602
+            },
+            {
+              "lat": 30.0362633,
+              "lon": 31.2335797
+            },
+            {
+              "lat": 30.0357058,
+              "lon": 31.2334194
+            }
+          ]
+        },
+        {
+          "type": "way",
+          "ref": "_fullGeom822304409",
+          "role": "inner",
+          "geometry": [
+            {
+              "lat": 30.0360348,
+              "lon": 31.2335967
+            },
+            {
+              "lat": 30.0359523,
+              "lon": 31.2335745
+            },
+            {
+              "lat": 30.03592,
+              "lon": 31.2337347
+            },
+            {
+              "lat": 30.0360025,
+              "lon": 31.2337569
+            },
+            {
+              "lat": 30.0360348,
+              "lon": 31.2335967
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "العجيل",
+        "name:en": "El Ogail",
+        "phone": "+20111866363",
+        "shop": "supermarket",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}
