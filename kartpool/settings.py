@@ -27,6 +27,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.gis', # for geoDjango
+    #3rd part 
+    'rest_framework',
     #local
     'accounts',
     'stores',
