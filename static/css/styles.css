@@ -14,7 +14,7 @@ header {
 }
 
 main {
-    display: flex;
+    display:flex;
     height: calc(100vh - 60px);
 }
 
@@ -37,35 +37,40 @@ main {
     border: 1px solid #ccc;
 }
 
-form {
-    max-width: 400px;
-    margin: 0 auto;
-    padding: 20px;
-    background: #f9f9f9;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+/* Style for the search form container */
+#search-form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
 }
 
-form input {
-    display: block;
-    width: 100%;
+/* Style for the search box */
+#search-box {
+    width: 300px;              /* Width of the search box */
+    padding: 10px;              /* Padding inside the input */
+    border-radius: 25px;        /* Rounded corners */
+    border: 2px solid #ccc;     /* Light grey border */
+    font-size: 16px;            /* Font size */
+    outline: none;              /* Remove default outline */
+    transition: all 0.3s ease;  /* Smooth transition for focus */
+}
+
+/* Style for the search box when focused */
+#search-box:focus {
+    border-color: #007bff;      /* Blue border on focus */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Subtle shadow */
+}
+
+/* Optional: Add some padding to the store list */
+#store-list {
     padding: 10px;
+}
+
+/* Style for each store item */
+.store-item {
     margin-bottom: 10px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-}
-
-form button {
-    display: block;
-    width: 100%;
     padding: 10px;
-    background-color: #3498db;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-form button:hover {
-    background-color: #2980b9;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for store items */
 }
