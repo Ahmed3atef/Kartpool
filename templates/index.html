@@ -4,13 +4,13 @@
 <header>
     <nav class="navbar navbar-dark bg-blue">
         <div class="container-fluid">
-            <a class="navbar-brand">Kartpool</a>
+            <a class="navbar-brand" href="{% url "home" %}">Kartpool</a>
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Menu</a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li><a class="dropdown-item" href="{% url "wishlist-list" %}">Wishlist</a></li>
+                        <li><a class="dropdown-item" href="{% url "wishlist-list" %}">Make Wish</a></li>
                         <li><hr class="dropdown-divider"></li>
                         <form id="logout-form" method="post" action="{% url 'logout' %}" style="display: none;">
                             {% csrf_token %}
@@ -19,8 +19,11 @@
                         <li><a class="dropdown-item" href="#" onclick="document.getElementById('logout-form').submit();">Logout</a></li>
                     </ul>
                 </li>
-                
             </ul>
+            <div class="navbar-nav me-auto mb-2 mb-lg-0">
+                <h4>Hi, {{user.username}}</h4>
+                <span>your Karma is : {{user.karma_points}}</span>
+            </div>
             <!-- Search Form -->
             <div class="search-container">
                 <form id="search-form">

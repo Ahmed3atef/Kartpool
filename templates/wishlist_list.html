@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block body %}
+<header>
+    <h1>Wishlists</h1>
+</header>
+
+<main>
+    <section id="wishlist-container">
+        {% if wishlists %}
+            {% for wishlist in wishlists %}
+                <div class="wishlist-item">
+                    <h4>{{ wishlist.user.username }} needs </h4>
+                    <ul>
+                        {% for item in wishlist.item.all %}
+                            <li>{{ item.item_name}} from {{ wishlist.store.name }}</li>
+                            <li>{{item.price}}.LE</li>
+                        {% endfor %}
+                    </ul>
+                    <a href="{% url "fulfill-wishlist" item_id=wishlist.id%}"><button class='btn btn-warning'>Done</button></a>
+                </div>
+            {% endfor %}
+        {% else %}
+            <p>No wishlists available.</p>
+        {% endif %}
+    </section>
+</main>
+{% endblock body %}

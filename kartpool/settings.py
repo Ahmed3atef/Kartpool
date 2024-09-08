@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     'accounts',
     'stores',
     'home',
+    'wishlists',
     
 ]
 
@@ -48,6 +49,7 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'kartpool.urls'
 
+AUTH_USER_MODEL = 'accounts.CustomUser'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
@@ -126,3 +128,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGIN_REDIRECT_URL = 'home'
 LOGOUT_REDIRECT_URL = 'login'
+
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'

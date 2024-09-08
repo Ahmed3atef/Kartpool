@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block body %}
+<!-- store_detail.html -->
+<div class="container">
+    <h1>{{ store.name }}</h1>
+    <div class="store-info">
+        <p><strong>Address:</strong> {{ store.address }}</p>
+        <p><strong>Type:</strong> {{ store.store_type }}</p>
+        <p><strong>Location:</strong> Latitude: {{ store.latitude }}, Longitude: {{ store.longitude }}</p>
+    </div>
+
+    <h2>Inventory:</h2>
+    <ul class="inventory-list">
+        {% for item in store.inventory.all %}
+        <li>
+            <span class="item-name">{{ item.item_name }}</span>
+            <span class="price">${{ item.price }}</span>
+        </li>
+        {% empty %}
+        <li class="no-items">No items available.</li>
+        {% endfor %}
+    </ul>
+</div>
+
+{% endblock body %}
