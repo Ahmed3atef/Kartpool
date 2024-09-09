@@ -15,9 +15,21 @@
                         {% for item in wishlist.item.all %}
                             <li>{{ item.item_name}} from {{ wishlist.store.name }}</li>
                             <li>{{item.price}}.LE</li>
+                            
                         {% endfor %}
+                        <li>you will gain: {{wishlist.karma}}</li>
                     </ul>
-                    <a href="{% url "fulfill-wishlist" item_id=wishlist.id%}"><button class='btn btn-warning'>Done</button></a>
+                    {% if wishlist.user == user %}
+                        <!-- Show delete button if the current user is the owner of the wishlist -->
+                        <a href="{% url 'delete-wishlist' wishlist.id %}">
+                            <button class="btn btn-danger">Delete</button>
+                        </a>
+                    {% else %}
+                        <!-- Show done button for other users -->
+                        <a href="{% url 'fulfill-wishlist' item_id=wishlist.id %}">
+                            <button class="btn btn-warning">Done</button>
+                        </a>
+                    {% endif %}
                 </div>
             {% endfor %}
         {% else %}

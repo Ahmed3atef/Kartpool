@@ -10,7 +10,6 @@
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Menu</a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="{% url "wishlist-list" %}">Wishlist</a></li>
-                        <li><a class="dropdown-item" href="{% url "wishlist-list" %}">Make Wish</a></li>
                         <li><hr class="dropdown-divider"></li>
                         <form id="logout-form" method="post" action="{% url 'logout' %}" style="display: none;">
                             {% csrf_token %}

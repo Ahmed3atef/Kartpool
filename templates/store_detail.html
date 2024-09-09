@@ -14,9 +14,14 @@
     <ul class="inventory-list">
         {% for item in store.inventory.all %}
         <li>
-            <span class="item-name">{{ item.item_name }}</span>
-            <span class="price">${{ item.price }}</span>
+            <p class="item-name">{{ item.item_name }}</p> <p class="price">{{ item.price }}L.E</span></p>
         </li>
+        <form action="{% url "add_to_wishlist" item.id store.id %}" method="post">
+            {% csrf_token %}
+            Karma Point: <input type='number' value="karma" name="karma">
+            <button class="btn btn-success" type="submit">Order</button>
+        </form>
+        <a href=""></a>
         {% empty %}
         <li class="no-items">No items available.</li>
         {% endfor %}
