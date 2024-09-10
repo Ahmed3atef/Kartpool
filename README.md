@@ -14,7 +14,7 @@ KartPool is a community-driven delivery app and platform for connecting resident
 
 clone the repo:
 ```sh
-$ git clone [https://github.com/Ahmed3atef/kartpool.git](https://github.com/Ahmed3atef/Kartpool.git)
+$ git clone https://github.com/Ahmed3atef/Kartpool.git
 ```
 
 - Install PostgreSQL
