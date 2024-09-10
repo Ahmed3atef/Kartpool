@@ -5,18 +5,20 @@ from django.shortcuts import render, redirect, get_object_or_404
 from .models import WishlistItem
 from django.contrib.auth.decorators import login_required
 from stores.models import Store, Inventory
+from accounts.models import CustomUser
 
 @login_required
 def fulfill_wishlist_item(request, item_id):
     wishlist_item = get_object_or_404(WishlistItem, id=item_id)
+    user = get_object_or_404(CustomUser, id=request.user.id)
 
     # Add karma points to the user who done the request
-    wishlist_item.user.add_karma_points(wishlist_item.karma) 
+    user.add_karma_points(wishlist_item.karma) 
 
     # Optionally, delete the fulfilled item
     wishlist_item.delete()
 
-    return redirect(reverse_lazy('wishlist-list'))
+    return redirect(reverse_lazy('home'))
 
 @login_required
 def add_to_wishlist(request, item_id, store_id):
@@ -47,7 +49,7 @@ def delete_wishlist(request, wishlist_id):
         wishlist_item.delete()
 
     # Redirect to the wishlist page after deletion
-    return redirect('wishlist_view')
+    return redirect(reverse_lazy('wishlist-list'))
 
 @login_required
 def list_wishlists(request):
