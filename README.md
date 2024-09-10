@@ -126,7 +126,7 @@ KartPool currently has the following set of features:
 
 To contribute to the development of KartPool, follow the steps below:
 
-1. Fork KartPool from [<https://github.com/Ahmed3atef/kartpool.git>https://github.com/Ahmed3atef/Kartpool.git](https://github.com/Ahmed3atef/Kartpool.git)
+1. Fork KartPool from <https://github.com/Ahmed3atef/Kartpool.git>
 2. Create your feature branch (`git checkout -b feature-new`)
 3. Make your changes
 4. Commit your changes (`git commit -am 'Add some new feature'`)
