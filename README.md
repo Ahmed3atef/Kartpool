@@ -42,11 +42,11 @@ psql
 ```
 -   Create a New Database (replace your_database_name with your desired name):
 ```sql
-CREATE DATABASE your_database_name;
+CREATE DATABASE kartpool;
 ```
 -   Connect to the Database:
 ```sql
-\c your_database_name
+\c kartpool
 ```
 -   Enable PostGIS Extension:
 ```sql
