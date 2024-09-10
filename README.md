@@ -9,18 +9,12 @@ KartPool is a community-driven delivery app and platform for connecting resident
 ![Screenshot](readme_img/screenshot2.gif)
 
 
-## Prerequisites
--   Python 3.x
--   Docker (for PostgreSQL and PostGIS setup)
--   pip (for Python package management)
--   venv (for creating a virtual environment)
--   This project was programmed on the Linux system so that you will not encounter any problems. Use **Linux** or **WSL** for this project
 
 ## Installation
 
 clone the repo:
 ```sh
-$ git clone https://github.com/Ahmed3atef/kartpool.git
+$ git clone [https://github.com/Ahmed3atef/kartpool.git](https://github.com/Ahmed3atef/Kartpool.git)
 ```
 
 - Install PostgreSQL
@@ -132,7 +126,7 @@ KartPool currently has the following set of features:
 
 To contribute to the development of KartPool, follow the steps below:
 
-1. Fork KartPool from <https://github.com/Ahmed3atef/kartpool.git>
+1. Fork KartPool from [<https://github.com/Ahmed3atef/kartpool.git>https://github.com/Ahmed3atef/Kartpool.git](https://github.com/Ahmed3atef/Kartpool.git)
 2. Create your feature branch (`git checkout -b feature-new`)
 3. Make your changes
 4. Commit your changes (`git commit -am 'Add some new feature'`)
