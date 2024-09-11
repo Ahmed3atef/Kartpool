@@ -40,7 +40,7 @@ sudo -i -u postgres
 ```bash
 psql
 ```
--   Create a New Database (replace your_database_name with your desired name):
+-   Create a New Database:
 ```sql
 CREATE DATABASE kartpool;
 ```
