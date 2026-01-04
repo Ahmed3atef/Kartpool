@@ -101,10 +101,10 @@ else:
     DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'kartpool',
-        'USER': 'koyeb-adm',
-        'PASSWORD': 'npg_9dn5qkgxXEzu',
-        'HOST': 'ep-lingering-silence-ag0g183x.c-2.eu-central-1.pg.koyeb.app',
+        'NAME': os.environ.get('DB_NAME'),
+        'USER': os.environ.get('DB_USER'),
+        'PASSWORD': os.environ.get('DB_PASSWORD'),
+        'HOST': os.environ.get('DB_HOST'),
         'OPTIONS': {'sslmode': 'require'},
     }
 }
