@@ -28,4 +28,4 @@ RUN uv sync --frozen --no-dev
 COPY . .
 
 # Start command: Collect static files then run gunicorn
-CMD ["sh", "-c", "uv run python manage.py collectstatic --noinput && uv run gunicorn kartpool.wsgi:application --bind 0.0.0.0:8000"]
+CMD ["sh", "-c", "uv run python manage.py collectstatic --noinput && uv run python manage.py migrate && uv run gunicorn kartpool.wsgi:application --bind 0.0.0.0:8000"]
