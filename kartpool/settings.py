@@ -10,7 +10,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = os.environ.get('DEBUG')
 
 # SECURITY WARNING: keep the secret key used in production secret!
 if not DEBUG:
@@ -19,8 +19,15 @@ else:
     SECRET_KEY = 'django-insecure-00000000000000000000000000000000'
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '*.koyeb.app']
 
+koyeb_domain = os.environ.get("KOYEB_PUBLIC_DOMAIN")
+if koyeb_domain:
+    ALLOWED_HOSTS.append(koyeb_domain)
+
+CSRF_TRUSTED_ORIGINS = [
+    "https://*.koyeb.app",
+]
 
 # Application definition
 
@@ -78,20 +85,29 @@ WSGI_APPLICATION = 'kartpool.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
-# if Debug:
+if DEBUG:
 
-DATABASES = {
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.contrib.gis.db.backends.postgis', # making django work with PostGIS
+            'NAME': 'kartpool',
+            'USER': 'postgres',
+            'PASSWORD': 'postgres',
+            'HOST': 'localhost',
+            'PORT': 5432,
+        }
+    }
+else:
+    DATABASES = {
     'default': {
-        'ENGINE': 'django.contrib.gis.db.backends.postgis', # making django work with PostGIS
+        'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'NAME': 'kartpool',
-        'USER': 'postgres',
-        'PASSWORD': 'postgres',
-        'HOST': 'localhost',
-        'PORT': 5432,
+        'USER': 'koyeb-adm',
+        'PASSWORD': 'npg_9dn5qkgxXEzu',
+        'HOST': 'ep-lingering-silence-ag0g183x.c-2.eu-central-1.pg.koyeb.app',
+        'OPTIONS': {'sslmode': 'require'},
     }
 }
-# else:
-    
 
 # Password validation
 # https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators
@@ -127,8 +143,9 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
-STATIC_URL = 'static/'
-STATICFILES_DIRS = [BASE_DIR.joinpath('static'),]
+STATIC_URL = '/static/'
+STATIC_ROOT = BASE_DIR / 'staticfiles'
+STATICFILES_DIRS = [BASE_DIR / 'static']
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
@@ -144,3 +161,30 @@ EMAIL_PORT =  587
 EMAIL_HOST_USER = os.environ.get('EMAIL_HOST_USER')
 EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_HOST_PASSWORD')
 EMAIL_USE_TLS = True
+
+
+# Configure logging for production
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'simple': {
+            'format': '[{asctime}] {levelname} {message}',
+            'style': '{',
+            'datefmt': '%d/%b/%Y %H:%M:%S',
+        },
+    },
+    'handlers': {
+        'console': {
+            'class': 'logging.StreamHandler',
+            'formatter': 'simple',
+        },
+    },
+    'loggers': {
+        'django': {
+            'handlers': ['console'],
+            'level': 'INFO',
+            'propagate': True,
+        },
+    },
+}

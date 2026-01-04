@@ -8,94 +8,71 @@ KartPool is a community-driven delivery app and platform for connecting resident
 ![Screenshot](readme_img/screenshot1.gif)
 ![Screenshot](readme_img/screenshot2.gif)
 
+## Installation & Setup
 
+1. **Clone the repository**:
 
-## Installation
+    ```sh
+    git clone https://github.com/Ahmed3atef/Kartpool.git
+    cd Kartpool
+    ```
 
-clone the repo:
-```sh
-$ git clone https://github.com/Ahmed3atef/Kartpool.git
-```
+2. **Install System Dependencies (Ubuntu/Debian)**:
+   The project requires GDAL and system libraries for GeoDjango.
 
-- Install PostgreSQL
-```bash
-sudo apt install postgresql postgresql-contrib
-```
-This will install PostgreSQL and some additional utilities.
--    Install PostGIS
-```bash
-sudo apt install postgis postgresql-<version>-postgis-<version>
-```
-Replace <version> with the version of PostgreSQL you have installed. For example, if you’re using PostgreSQL 14, you would use postgresql-14-postgis-3.
--   Verify Installation
-```bash
-psql --version
-```
-#### Create a New Database and Enable PostGIS
--   Switch to the PostgreSQL User:
-```bash
-sudo -i -u postgres
-```
--   Start the PostgreSQL Interactive Terminal:
-```bash
-psql
-```
--   Create a New Database:
-```sql
-CREATE DATABASE kartpool;
-```
--   Connect to the Database:
-```sql
-\c kartpool
-```
--   Enable PostGIS Extension:
-```sql
-CREATE EXTENSION postgis;
-```
--   You can also enable additional extensions if needed:
-```sql
-CREATE EXTENSION postgis_topology;
-```
+    ```bash
+    sudo apt-get update
+    sudo apt-get install -y binutils libproj-dev gdal-bin libgdal-dev
+    ```
 
-On macOS and Linux:
+3. **Start the Database (Docker)**:
+   We use Docker to run PostgreSQL with PostGIS.
 
-```sh
-$ sudo ./reset_kartpool_db.sh
-$ python -m venv env
-$ source env/bin/activate
-$ pip install -r requirements.txt
-$ python manage.py migrate
-$ python manage.py createsuperuser
-```
+    ```bash
+    # Start the database container
+    docker-compose up -d
+    ```
+
+4. **Set Up Python Environment**:
+
+    ```bash
+    # Create a virtual environment
+    uv venv
+    source .venv/bin/activate
+
+    # Install dependencies
+    uv sync
+    ```
+
+5. **Initialize/Reset the Database**:
+   Use the helper command to reset the database and enable PostGIS:
+
+    ```bash
+    docker compose run --rm reset-db
+    ```
+
+6. **Run Migrations & Create User**:
+    ```bash
+    python manage.py migrate
+    python manage.py createsuperuser
+    ```
+
 ## Execution / Usage
 
-To run KartPool, fire up a terminal window and run the following command:
+To run KartPool locally:
 
-eddit this lines in kartpool/settings.py
-```py
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.contrib.gis.db.backends.postgis', # making django work with PostGIS
-        'NAME': 'kartpool',
-        'USER': 'change me',
-        'PASSWORD': 'change me',
-        'HOST': 'localhost',
-        'PORT': 5432,
-    }
-}
+1. Ensure the Docker database is running:
 
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT =  587
-EMAIL_HOST_USER = "your user"
-EMAIL_HOST_PASSWORD = "your password"
-EMAIL_USE_TLS = True
-```
+    ```bash
+    docker-compose up -d db
+    ```
 
-```sh
-$ source env/bin/activate
-$ python manage.py runserver
-```
+2. Start the Django development server:
+    ```bash
+    python manage.py runserver
+    ```
+
+**Note:** The application expects the database credentials to be configured via environment variables or use the default Docker settings provided in `settings.py`.
 
 ## Technologies
 
@@ -106,6 +83,7 @@ KartPool uses the following technologies and tools:
 -   **GeoDjango**: Django module for geographic web applications.
 -   **PostgreSQL**: Database for data storage.
 -   **PostGIS**: Extension for PostgreSQL to handle spatial data
+
 ## Features
 
 KartPool currently has the following set of features:
@@ -117,10 +95,10 @@ KartPool currently has the following set of features:
 
 ## Why KartPool?
 
-- Promotes community engagement and mutual support
-- Reduces exposure risk by minimizing trips to stores
-- Supports local businesses during challenging times
-- Provides a digital infrastructure for businesses lacking online presence
+-   Promotes community engagement and mutual support
+-   Reduces exposure risk by minimizing trips to stores
+-   Supports local businesses during challenging times
+-   Provides a digital infrastructure for businesses lacking online presence
 
 ## Contributing
 
