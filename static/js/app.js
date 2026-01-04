@@ -96,9 +96,9 @@ function onLocationSuccess(position, searchQuery = null) {
     // Construct the API URL based on whether it's a search or fetching nearby stores
     let apiUrl;
     if (searchQuery) {
-        apiUrl = `http://127.0.0.1:8000/api/stores_search/?q=${searchQuery}&lat=${lat}&lng=${lng}`;
+        apiUrl = `https://kartpool-7fadced4.koyeb.app/api/stores_search/?q=${searchQuery}&lat=${lat}&lng=${lng}`;
     } else {
-        apiUrl = `http://127.0.0.1:8000/api/stores/?lat=${lat}&lng=${lng}`;
+        apiUrl = `https://kartpool-7fadced4.koyeb.app/api/stores/?lat=${lat}&lng=${lng}`;
     }
 
     // Fetch stores based on location and search query if provided
