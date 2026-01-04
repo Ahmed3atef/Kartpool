@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgis/postgis:15-3.3
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: kartpool
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    restart: always
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  reset-db:
+    image: postgis/postgis:15-3.3
+    profiles:
+      - tools
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      PGHOST: db
+      PGUSER: postgres
+      PGPASSWORD: postgres
+    command: >
+      bash -c "
+      echo 'Terminating connections...' &&
+      psql -c \"SELECT pg_terminate_backend(pid) FROM pg_stat_activity WHERE datname = 'kartpool' AND pid <> pg_backend_pid();\" &&
+      echo 'Dropping database...' &&
+      psql -c 'DROP DATABASE IF EXISTS kartpool;' &&
+      echo 'Creating database...' &&
+      psql -c 'CREATE DATABASE kartpool;' &&
+      echo 'Enabling PostGIS...' &&
+      psql -d kartpool -c 'CREATE EXTENSION IF NOT EXISTS postgis;' &&
+      echo 'Database kartpool has been reset.'
+      "
+
+volumes:
+  postgres_data:
